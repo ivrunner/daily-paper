@@ -1,0 +1,5 @@
+{% if edition.ticker %}
+<div class="ticker" aria-label="More headlines"><div class="ticker-track">
+{% for a in edition.ticker %}<a href="{{ a.link }}"><b>{{ names[a.section_slug] }}</b>{{ a.title }}</a>{% endfor %}
+</div></div>
+{% endif %}

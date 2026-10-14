@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title %}Archive · The Daily{% endblock %}
+{% block content %}
+<header class="runhead">
+  <a href="{{ root }}index.html">← Today's paper</a>
+  <a class="name" href="{{ root }}index.html">The Daily</a>
+  <span>Last {{ editions | length }} editions</span>
+</header>
+<div class="sechead"><h2>Archive</h2></div>
+<ul class="archive-list">
+{% for e in editions %}
+  <li><a class="date" href="{{ root }}editions/{{ e.date.isoformat() }}/index.html">{{ e.date | longdate }}</a><span class="src">No. {{ e.issue }}</span><span>{% if e.lead %}{{ e.lead.title }}{% endif %}</span></li>
+{% endfor %}
+</ul>
+{% endblock %}

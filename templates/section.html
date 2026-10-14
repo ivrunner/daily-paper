@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% from "_macros.html" import photo, story %}
+{% block title %}{{ section.name }} · The Daily · {{ edition.date | shortdate }}{% endblock %}
+{% block content %}
+<header class="runhead">
+  <a href="{{ home }}index.html">← Front page</a>
+  <a class="name" href="{{ home }}index.html">The Daily</a>
+  <span>{{ edition.date | longdate }}</span>
+</header>
+{% with always_tabs = true %}{% include "_tabs.html" %}{% endwith %}
+<div class="sechead"><span class="num">{{ "%02d" | format(section.number) }}</span><h2>{{ section.name }}</h2><span class="count">{{ section.articles | length }} stories · {{ section.sources | length }} sources</span></div>
+{% set top = section.top %}
+{% if top %}
+<article class="feature">
+  {{ photo(top, "feature-photo") }}
+  <div class="feature-text">
+    <div class="kick">Top story</div>
+    <h1><a href="{{ top.link }}">{{ top.title }}</a></h1>
+    {% if top.summary %}<p class="dropcap">{{ top.summary }}</p>{% endif %}
+    <p class="src">{{ top.source }}</p>
+    <a class="more strong" href="{{ top.link }}">Read the full story →</a>
+    {% if top.also_covered_by %}<aside class="callout"><div class="kick">Also covering this</div><p>{{ top.also_covered_by | join(" · ") }}</p></aside>{% endif %}
+  </div>
+</article>
+{% if section.articles[1:4] %}<div class="cards">{% for a in section.articles[1:4] %}{{ story(a, show_photo=true) }}{% endfor %}</div>{% endif %}
+{% if section.articles[4:] %}
+<div class="kick brief-head">In brief</div>
+<ul class="brief">{% for a in section.articles[4:] %}<li><a href="{{ a.link }}">{{ a.title }}</a> <span class="src">· {{ a.source }}</span></li>{% endfor %}</ul>
+{% endif %}
+{% else %}
+<p class="empty">No new stories in this section today.</p>
+{% endif %}
+<footer class="pager">
+  {% if prev %}<a href="{{ home }}{{ prev.slug }}/index.html">← {{ "%02d" | format(prev.number) }} {{ prev.name }}</a>{% else %}<a href="{{ home }}index.html">← Front page</a>{% endif %}
+  {% if next %}<a href="{{ home }}{{ next.slug }}/index.html">{{ "%02d" | format(next.number) }} {{ next.name }} →</a>{% else %}<a href="{{ home }}index.html">Front page →</a>{% endif %}
+</footer>
+{% endblock %}

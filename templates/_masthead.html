@@ -1,0 +1,11 @@
+{% from "_macros.html" import weather_icon, sun_mark %}
+<header class="masthead">
+  <div class="topline"><span>{{ edition.date | longdate }}</span><span>Morning Edition</span><span>Vol. {{ edition.volume }} · No. {{ edition.issue }}</span></div>
+  <div class="mastrow">
+    <div class="wx">{% if edition.weather %}{{ weather_icon(edition.weather.icon) }}<div><div class="deg">{{ edition.weather.high_f }}°</div><div class="ear">{{ edition.weather.place }} · {{ edition.weather.label }}<br>H {{ edition.weather.high_f }}° · L {{ edition.weather.low_f }}°</div></div>{% endif %}</div>
+    <a class="nameplate" href="{{ home }}index.html">{{ sun_mark() }}<span class="mast">The Daily</span></a>
+    <div class="ear right">{% if is_today %}Today's edition{% else %}Edition of {{ edition.date | shortdate }}{% endif %}<br><b>{{ edition.story_count }} stories</b> from {{ edition.source_count }} sources<br>Built {{ edition.built_at | clock }}</div>
+  </div>
+  <div class="tagline">Tech · Sport · Fiber · Play</div>
+  {% include "_tabs.html" %}
+</header>

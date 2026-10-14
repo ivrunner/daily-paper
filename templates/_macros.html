@@ -1,0 +1,30 @@
+{% macro photo(article, cls="") -%}
+{% if article.image_url %}<figure class="photo {{ cls }}"><img src="{{ article.image_url }}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentElement.remove()"></figure>{% endif %}
+{%- endmacro %}
+
+{% macro story(article, kicker="", show_photo=false) -%}
+<article class="story">
+  {% if show_photo %}{{ photo(article) }}{% endif %}
+  {% if kicker %}<div class="kick">{{ kicker }}</div>{% endif %}
+  <h3><a href="{{ article.link }}">{{ article.title }}</a></h3>
+  {% if article.summary %}<p class="dek">{{ article.summary | words(25) }}</p>{% endif %}
+  <a class="more" href="{{ article.link }}">{{ article.source }} →</a>
+</article>
+{%- endmacro %}
+
+{% macro sun_mark() -%}
+<svg class="sun-mark" viewBox="0 0 48 48" aria-hidden="true"><g stroke="#d9661b" stroke-width="3.5" stroke-linecap="round"><path d="M24 4v7M24 37v7M4 24h7M37 24h7M9.9 9.9l5 5M33.1 33.1l5 5M38.1 9.9l-5 5M14.9 33.1l-5 5"/></g><circle cx="24" cy="24" r="8" fill="#d9661b"/></svg>
+{%- endmacro %}
+
+{% macro weather_icon(name) -%}
+<svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+{% if name == "sun" %}<circle cx="24" cy="24" r="8"/><path d="M24 6v5M24 37v5M6 24h5M37 24h5M11.3 11.3l3.5 3.5M33.2 33.2l3.5 3.5M36.7 11.3l-3.5 3.5M14.8 33.2l-3.5 3.5"/>
+{% elif name == "partly" %}<circle cx="20" cy="20" r="7"/><path d="M20 6v4M6 20h4M10 10l3 3M30 10l-3 3M10 30l3-3"/><path d="M22 40h16a6 6 0 0 0 0-12 9 9 0 0 0-16 3 5 5 0 0 0 0 9z" fill="#f1ede4"/>
+{% elif name == "fog" %}<path d="M8 18h32M8 26h32M12 34h24"/>
+{% elif name == "rain" %}<path d="M14 30h22a7 7 0 0 0 0-14 10 10 0 0 0-19 3 6 6 0 0 0-3 11z"/><path d="M18 36l-2 6M26 36l-2 6M34 36l-2 6"/>
+{% elif name == "snow" %}<path d="M14 30h22a7 7 0 0 0 0-14 10 10 0 0 0-19 3 6 6 0 0 0-3 11z"/><path d="M18 38v.01M26 42v.01M34 38v.01" stroke-width="4"/>
+{% elif name == "storm" %}<path d="M14 30h22a7 7 0 0 0 0-14 10 10 0 0 0-19 3 6 6 0 0 0-3 11z"/><path d="M26 32l-5 8h6l-4 6"/>
+{% else %}<path d="M14 36h22a7 7 0 0 0 0-14 10 10 0 0 0-19 3 6 6 0 0 0-3 11z"/>
+{% endif %}
+</svg>
+{%- endmacro %}

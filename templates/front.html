@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% from "_macros.html" import photo, story %}
+{% block title %}The Daily · {{ edition.date | longdate }}{% endblock %}
+{% block content %}
+{% include "_masthead.html" %}
+<div class="front">
+  <nav class="index" aria-label="Sections">
+    {% for s in edition.sections %}<a href="{{ home }}{{ s.slug }}/index.html">{{ s.name }} <span>{{ s.articles | length }}</span></a>{% endfor %}
+    <a class="archive-link" href="{{ root }}archive/index.html">Archive →</a>
+    <div class="issue-no">No. {{ edition.issue }}<small>Issue</small></div>
+  </nav>
+  <div class="front-main">
+    {% set lead = edition.lead %}
+    <article class="lead">
+    {% if lead %}
+      {{ photo(lead, "lead-photo") }}
+      <div class="kick">{{ names[lead.section_slug] }} · Lead story</div>
+      <h1><a href="{{ lead.link }}">{{ lead.title }}</a></h1>
+      {% if lead.summary %}<div class="lead-body{% if lead.summary.split() | length > 40 %} two-col{% endif %}"><p class="dropcap">{{ lead.summary }}</p></div>{% endif %}
+      <p class="src">{{ ([lead.source] + lead.also_covered_by) | join(" · ") }}</p>
+      <a class="more strong" href="{{ lead.link }}">Read the full story →</a>
+    {% else %}
+      <h1>No stories today</h1>
+    {% endif %}
+    </article>
+    <div class="rail">
+      {% for a in edition.front[:2] %}{{ story(a, names[a.section_slug], show_photo=loop.index == 2) }}{% endfor %}
+      {% if edition.quote %}<blockquote class="pull"><span class="q">“</span>{{ edition.quote.text }}<cite>{{ edition.quote.author }} · Quote of the day</cite></blockquote>{% endif %}
+    </div>
+  </div>
+</div>
+{% if edition.front[2:] %}<div class="row4">{% for a in edition.front[2:] %}{{ story(a, names[a.section_slug]) }}{% endfor %}</div>{% endif %}
+{% include "_ticker.html" %}
+{% endblock %}

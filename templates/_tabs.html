@@ -1,0 +1,4 @@
+<nav class="tabs{% if always_tabs is defined %} always{% endif %}" aria-label="Sections">
+{% for s in edition.sections %}<a href="{{ home }}{{ s.slug }}/index.html"{% if section is defined and section.slug == s.slug %} class="on"{% endif %}>{{ s.name }}</a>{% endfor %}
+<a href="{{ root }}archive/index.html">Archive</a>
+</nav>
