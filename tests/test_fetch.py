@@ -83,3 +83,12 @@ def test_one_timeout_does_not_stop_the_others(monkeypatch):
     assert [r.feed.name for r in results] == ["Slow", "Fast"]
     assert "Timeout" in results[0].error
     assert results[1].error is None and len(results[1].entries) == 4
+
+
+@pytest.mark.parametrize("body, message", [
+    ("sections:\n  - name: A\n\tslug: a\n", "line"),          # tab / bad indent → YAML syntax error
+    ("sections:\n  - Apple\n", "Section 1"),                  # section written as a bare word
+])
+def test_load_config_explains_yaml_typos(tmp_path, body, message):
+    with pytest.raises(ConfigError, match=message):
+        load_config(write(tmp_path, body))

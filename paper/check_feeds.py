@@ -4,7 +4,7 @@ from __future__ import annotations
 from pathlib import Path
 
 from paper.clean import find_image
-from paper.fetch import FeedResult, fetch_all, load_config
+from paper.fetch import ConfigError, FeedResult, fetch_all, load_config
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -22,7 +22,12 @@ def report_lines(results: list[FeedResult]) -> list[str]:
 
 
 def main() -> int:
-    results = fetch_all(load_config(ROOT / "feeds.yaml"))
+    try:
+        sections = load_config(ROOT / "feeds.yaml")
+    except ConfigError as exc:
+        print(f"feeds.yaml problem: {exc}")
+        return 1
+    results = fetch_all(sections)
     print("\n".join(report_lines(results)))
     return 1 if any(r.error for r in results) else 0
 

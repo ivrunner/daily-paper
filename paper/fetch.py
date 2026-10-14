@@ -43,14 +43,21 @@ class FeedResult:
 
 
 def load_config(path: Path) -> list[SectionSpec]:
-    data = yaml.safe_load(Path(path).read_text(encoding="utf-8")) or {}
+    try:
+        data = yaml.safe_load(Path(path).read_text(encoding="utf-8")) or {}
+    except yaml.YAMLError as exc:
+        mark = getattr(exc, "problem_mark", None)
+        where = f" near line {mark.line + 1}, column {mark.column + 1}" if mark else ""
+        raise ConfigError(f"feeds.yaml isn't valid YAML{where} (check indentation; use spaces, not tabs)") from exc
     if not isinstance(data, dict) or not isinstance(data.get("sections"), list):
         raise ConfigError("feeds.yaml needs a top-level 'sections' list")
     sections: list[SectionSpec] = []
     seen: set[str] = set()
     for number, raw in enumerate(data["sections"], start=1):
-        name = (raw or {}).get("name") or f"section {number}"
-        slug = (raw or {}).get("slug")
+        if not isinstance(raw, dict):
+            raise ConfigError(f"Section {number} must be a block with name, slug and feeds")
+        name = raw.get("name") or f"section {number}"
+        slug = raw.get("slug")
         if not slug:
             raise ConfigError(f"Section '{name}' is missing 'slug'")
         slug = str(slug)

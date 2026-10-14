@@ -96,3 +96,12 @@ def test_report_lines():
     lines = report_lines([ok, bad])
     assert lines[0].startswith("OK") and "2 entries" in lines[0] and "1 with photos" in lines[0]
     assert lines[1].startswith("FAIL") and "403" in lines[1]
+
+
+def test_issue_number_keeps_counting_after_old_editions_are_pruned(tmp_path):
+    paths = setup(tmp_path)
+    for day in range(40, -1, -1):  # 41 consecutive daily builds ending today
+        assert run(**paths, now=NOW - timedelta(days=day), fetcher=fake_fetcher, weather_fn=lambda: None) == 0
+    today = json.loads((paths["editions_dir"] / "2026-10-13.json").read_text())
+    assert today["issue"] == 41
+    assert len(list(paths["editions_dir"].glob("*.json"))) == 30

@@ -57,6 +57,11 @@ def load_editions(editions_dir: Path) -> list[Edition]:
     return editions
 
 
+def launch_date(editions: list[Edition], today: date) -> date:
+    """Day of issue No. 1, worked out from saved issue numbers so it survives pruning."""
+    return min([today] + [e.date - timedelta(days=e.issue - 1) for e in editions])
+
+
 def prune_editions(editions_dir: Path, today: date, keep_days: int = KEEP_DAYS) -> None:
     cutoff = today - timedelta(days=keep_days - 1)
     for day in _edition_dates(editions_dir):
@@ -94,7 +99,7 @@ def run(*, out: Path, editions_dir: Path, config: Path, quotes_path: Path, now: 
         return 1
     today = now.astimezone(ET).date()
     editions_dir.mkdir(parents=True, exist_ok=True)
-    launch = min(_edition_dates(editions_dir) + [today])
+    launch = launch_date(load_editions(editions_dir), today)
     quotes = parse_quotes(quotes_path.read_text(encoding="utf-8")) if quotes_path.exists() else []
     edition = build_edition(collect_articles(results, now), sections=sections, now=now, launch=launch,
                             quotes=quotes, weather=weather_fn())
