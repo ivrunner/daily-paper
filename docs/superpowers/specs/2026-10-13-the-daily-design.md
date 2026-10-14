@@ -29,7 +29,7 @@ A personal, automatically built daily newspaper called **The Daily**. It has a r
 
 ## 3. Sections and sources
 
-Each section maps to a page. The sources' feed URLs are looked up and confirmed with the feed check command (§8) during implementation. Any source without a working free feed is dropped or swapped, and `feeds.yaml` records the final list.
+Each section maps to a page. Every feed URL below was tested on 2026-10-13. Telecompetitor and Fierce's own site block automated requests, First Round Review no longer publishes a feed, and HBR's feed is down, so those were replaced as shown. `feeds.yaml` records the final URLs.
 
 | # | Section | Sources |
 |---|---|---|
@@ -37,8 +37,8 @@ Each section maps to a page. The sources' feed URLs are looked up and confirmed 
 | 02 | Apple | MacRumors, 9to5Mac, AppleInsider, Six Colors |
 | 03 | Sports | ESPN, CBS Sports, Yahoo Sports |
 | 04 | Endurance | iRunFar, DC Rainmaker, Triathlete, Canadian Running |
-| 05 | Leadership | Fast Company, First Round Review, Seth Godin, Harvard Business Review |
-| 06 | Fiber & Telecom | Telecompetitor, Light Reading, Fierce Network, Broadband Communities |
+| 05 | Leadership | Fast Company (Leadership), MIT Sloan Management Review, Seth Godin |
+| 06 | Fiber & Telecom | Broadband Breakfast, Light Reading, Fierce Network (via its FeedBurner feed), Broadband Communities |
 | 07 | Video Games | Polygon, IGN, Eurogamer, Rock Paper Shotgun |
 
 `feeds.yaml` shape:
@@ -65,7 +65,7 @@ GitHub Actions (cron) ──► paper/build.py
                                             └──► editions/YYYY-MM-DD.json (committed)
 ```
 
-**Stack:** Python 3.12, `feedparser`, `requests`, `Jinja2`, `PyYAML`, `pytest`. Output is plain HTML and CSS: no JavaScript framework and no build tools.
+**Stack:** Python 3.12 in CI (3.11+ supported locally), `feedparser`, `requests`, `Jinja2`, `PyYAML`, `pytest`. Output is plain HTML and CSS: no JavaScript framework and no build tools.
 
 ### Units
 
@@ -83,7 +83,7 @@ GitHub Actions (cron) ──► paper/build.py
 
 ## 5. Edition rules
 
-**Time window:** articles published in the last 24 hours before build time. If a section has fewer than 4, that section looks back 48 hours. Articles with no date count as published at fetch time. Each section keeps at most 12 articles, newest first.
+**Time window:** articles published in the last 24 hours before build time. If a section has fewer than 4, that section looks back 48 hours. Articles with no date count as published at fetch time, and dates in the future are clamped to fetch time. Fierce Network's FeedBurner feed uses a nonstandard date format (`Oct 13, 2026 6:57pm`, Eastern), which is parsed explicitly. Each section keeps at most 12 articles, newest first, and **at most 5 from any one source**, so high-volume sites like 9to5Mac can't crowd out the others.
 
 **Removing duplicates:**
 - Two articles are the same if their links match after stripping query strings, tracking parameters and the trailing `/`.
@@ -94,7 +94,7 @@ GitHub Actions (cron) ──► paper/build.py
 
 **Lead story:** the group with the most coverage, if it has ≥ 2 sources. Ties go to the newest. Its representative article is the newest one with an image, or the newest one if none has an image. If no group has ≥ 2 sources, the lead is the newest article with an image from any section. The lead story's page lists every source that covered it.
 
-**Section top story:** chosen the same way as the lead, but only within the section. On the front page, the lead stands in for its own section, so the 6 other sections fill the 6 remaining story slots.
+**Section top story:** chosen the same way as the lead, but only within the section. Articles about the same story as the lead are passed over when choosing other sections' top stories, so the lead never appears twice on the front page. On the front page, the lead stands in for its own section, so the 6 other sections fill the 6 remaining story slots.
 
 **Front page slots** (matches the mockup):
 - Lead: big photo, headline, italic summary line, two-column summary with a large first letter, sources.
@@ -106,7 +106,7 @@ A front-page slot that calls for a photo falls back to a text-only layout when i
 
 **Section page** (matches the mockup): the top story is featured, the next 3 get cards, and the rest go in an "In brief" two-column list. The top story's callout box shows the other sites that covered it, when there are any. If a section has no articles, its page says "No new stories in this section today." and the front page's slot for that section goes to the next section's second story.
 
-**Quote of the day:** `quotes.txt` holds one `quote — author` per line, and the quote is picked by day-of-year mod line count. The project starts with about 120 public-domain or widely quoted leadership quotes.
+**Quote of the day:** `quotes.txt` holds one `quote — author` per line, and the quote is picked by day-of-year mod line count. The project starts with about 70 well-attributed quotes on leadership, sport and endurance.
 
 **Issue number:** "Vol. 1 · No. N", where N is the number of days since the first edition plus 1. The volume goes up by one each year on the launch anniversary.
 
