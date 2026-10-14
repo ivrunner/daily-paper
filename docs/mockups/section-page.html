@@ -1,0 +1,124 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=Inter:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+  .td { --paper:#f4f2ee; --ink:#161616; --muted:#5b5b5b; --accent:#e07a1f; --sage:#e3e6cf; --rule:#cfcac0;
+        background:var(--paper); color:var(--ink); font-family:'Source Serif 4',serif; padding:24px 32px 30px; border-radius:6px; box-shadow:0 8px 30px rgba(0,0,0,.18); }
+  .td * { box-sizing:border-box; }
+  .td p { margin:0 0 8px; font-size:13px; line-height:1.5; }
+  .td .kick { font-family:'Inter',sans-serif; font-size:10px; font-weight:700; letter-spacing:.12em; text-transform:uppercase; color:var(--accent); margin-bottom:4px; }
+  .td .more { font-family:'Inter',sans-serif; font-size:10px; font-weight:600; }
+  .td .src { font-family:'Inter',sans-serif; font-size:10px; color:var(--muted); }
+  .td h3 { font-family:'DM Serif Display',serif; font-weight:400; font-size:19px; line-height:1.12; margin:0 0 6px; }
+  .td img { width:100%; display:block; object-fit:cover; }
+
+  .td .runhead { display:flex; justify-content:space-between; align-items:baseline; border-bottom:1px solid var(--ink); padding-bottom:6px; font-family:'Inter',sans-serif; font-size:10px; font-weight:600; letter-spacing:.08em; text-transform:uppercase; }
+  .td .runhead .name { font-family:'DM Serif Display',serif; font-size:20px; letter-spacing:-.01em; text-transform:none; }
+  .td .sechead { display:flex; align-items:baseline; gap:14px; margin:18px 0 16px; }
+  .td .sechead .num { font-family:'DM Serif Display',serif; font-size:44px; color:var(--accent); line-height:1; }
+  .td .sechead h2 { font-family:'DM Serif Display',serif; font-weight:400; font-size:44px; margin:0; line-height:1; }
+  .td .sechead .count { font-family:'Inter',sans-serif; font-size:10px; color:var(--muted); letter-spacing:.1em; text-transform:uppercase; margin-left:auto; }
+
+  .td .feature { display:grid; grid-template-columns:1.1fr 1fr; gap:24px; border-bottom:1px solid var(--ink); padding-bottom:20px; }
+  .td .feature h1 { font-family:'DM Serif Display',serif; font-weight:400; font-size:34px; line-height:1.05; margin:0 0 10px; }
+  .td .dropcap::first-letter { font-family:'DM Serif Display',serif; float:left; font-size:46px; line-height:.85; padding:4px 6px 0 0; }
+  .td .callout { background:var(--sage); padding:14px 16px; margin-top:12px; }
+  .td .callout .q { font-family:'DM Serif Display',serif; font-size:17px; line-height:1.25; }
+
+  .td .grid3 { display:grid; grid-template-columns:repeat(3,1fr); gap:22px; padding:18px 0; border-bottom:1px solid var(--rule); }
+  .td .grid3 > div + div { border-left:1px solid var(--rule); padding-left:22px; }
+  .td .brief { display:grid; grid-template-columns:1fr 1fr; gap:6px 28px; padding-top:14px; }
+  .td .brief .item { display:flex; gap:10px; padding:7px 0; border-bottom:1px dotted var(--rule); font-size:13px; }
+  .td .brief .item b { font-weight:600; }
+  .td .foot { display:flex; justify-content:space-between; margin-top:16px; font-family:'Inter',sans-serif; font-size:10px; font-weight:600; letter-spacing:.08em; text-transform:uppercase; }
+
+  /* phone */
+  .wrap { display:grid; grid-template-columns:1fr 300px; gap:28px; align-items:start; }
+  .phone { border:10px solid #111; border-radius:38px; overflow:hidden; background:#f4f2ee; box-shadow:0 8px 30px rgba(0,0,0,.25); }
+  .phone .td { padding:16px 16px 20px; box-shadow:none; border-radius:0; }
+  .phone .td h1 { font-size:26px !important; }
+  .phone .sechead h2, .phone .sechead .num { font-size:32px; }
+  .phone .tabs { display:flex; gap:12px; overflow:hidden; white-space:nowrap; font-family:'Inter',sans-serif; font-size:10px; font-weight:700; letter-spacing:.08em; text-transform:uppercase; padding:8px 0; border-bottom:1px solid #cfcac0; }
+  .phone .tabs .on { color:#e07a1f; border-bottom:2px solid #e07a1f; }
+  @media (max-width: 1000px) { .wrap { grid-template-columns:1fr; } }
+</style>
+
+<h2>Section page: Apple (desktop and iPhone)</h2>
+<p class="subtitle">Every section uses this same layout. The section's top story is featured, the next three get photo cards, and the rest are listed in a compact "In brief" column. Placeholder photos and made-up headlines.</p>
+
+<div class="wrap">
+<div class="td">
+  <div class="runhead"><span>← Front page</span><span class="name">The Daily</span><span>Tue · Oct 13, 2026</span></div>
+
+  <div class="sechead"><span class="num">02</span><h2>Apple</h2><span class="count">10 stories · 4 sources</span></div>
+
+  <div class="feature">
+    <div>
+      <img src="https://picsum.photos/seed/mac22/700/460" style="height:270px">
+    </div>
+    <div>
+      <div class="kick">Top story</div>
+      <h1>Apple Unveils New M6 MacBook Pro Line at Surprise Event</h1>
+      <p class="dropcap">Apple introduced redesigned 14- and 16-inch MacBook Pro models powered by the M6 family, promising up to 24 hours of battery life and a brighter mini-LED display. Shipments begin next week.</p>
+      <div class="src">MacRumors · also covered by 9to5Mac, AppleInsider, The Verge</div>
+      <div class="more" style="margin-top:6px">Read the full story →</div>
+      <div class="callout">
+        <div class="kick" style="color:#5b6b2a">Also covering this</div>
+        <p style="margin:0;font-size:12px">9to5Mac: "Hands-on with the new MacBook Pro" · AppleInsider: "M6 Pro vs M5 Pro benchmarks"</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid3">
+    <div>
+      <img src="https://picsum.photos/seed/watch5/400/260" style="height:120px;margin-bottom:10px">
+      <h3>watchOS 13.1 Adds Long-Requested Training Load Feature</h3>
+      <p>Runners and cyclists get a seven-day effort view.</p>
+      <div class="more">9to5Mac →</div>
+    </div>
+    <div>
+      <img src="https://picsum.photos/seed/iphone8/400/260" style="height:120px;margin-bottom:10px">
+      <h3>iPhone 18 Pro Supply Chain Points to Spring Production</h3>
+      <p>Analysts say component orders are ahead of last year.</p>
+      <div class="more">AppleInsider →</div>
+    </div>
+    <div>
+      <h3>Six Colors Report Card: How Apple Did This Quarter</h3>
+      <p>A panel of writers grades software quality, hardware and services. Text-only card when a story has no photo.</p>
+      <div class="more">Six Colors →</div>
+    </div>
+  </div>
+
+  <div class="kick" style="margin-top:14px">In brief</div>
+  <div class="brief">
+    <div class="item"><span><b>Vision Pro gets new immersive sports content</b> <span class="src">· MacRumors</span></span></div>
+    <div class="item"><span><b>Apple TV app redesign spotted in beta</b> <span class="src">· 9to5Mac</span></span></div>
+    <div class="item"><span><b>AirPods firmware update rolls out</b> <span class="src">· MacRumors</span></span></div>
+    <div class="item"><span><b>Apple Pay expands to three new countries</b> <span class="src">· AppleInsider</span></span></div>
+    <div class="item"><span><b>Developers react to App Store fee changes</b> <span class="src">· 9to5Mac</span></span></div>
+    <div class="item"><span><b>Deals: M5 iPad Air hits record low</b> <span class="src">· AppleInsider</span></span></div>
+  </div>
+
+  <div class="foot"><span>← 01 Technology</span><span>03 Sports →</span></div>
+</div>
+
+<div class="phone">
+  <div class="td">
+    <div class="runhead"><span>←</span><span class="name">The Daily</span><span>Oct 13</span></div>
+    <div class="tabs"><span>Tech</span><span class="on">Apple</span><span>Sports</span><span>Endurance</span><span>Leadership</span></div>
+    <div class="sechead" style="margin:12px 0 10px"><span class="num">02</span><h2>Apple</h2></div>
+    <img src="https://picsum.photos/seed/mac22/700/460" style="height:170px;margin-bottom:10px">
+    <div class="kick">Top story</div>
+    <h1 style="font-family:'DM Serif Display',serif;font-weight:400;line-height:1.05;margin:0 0 8px">Apple Unveils New M6 MacBook Pro Line</h1>
+    <p class="dropcap">Apple introduced redesigned 14- and 16-inch MacBook Pro models powered by the M6 family, promising up to 24 hours of battery life.</p>
+    <div class="more" style="margin-bottom:14px">MacRumors · Read →</div>
+    <div style="border-top:1px solid #cfcac0;padding-top:12px;display:grid;grid-template-columns:80px 1fr;gap:10px">
+      <img src="https://picsum.photos/seed/watch5/200/200" style="height:80px">
+      <div><h3 style="font-size:16px">watchOS 13.1 Adds Training Load Feature</h3><div class="more">9to5Mac →</div></div>
+    </div>
+    <div style="border-top:1px solid #cfcac0;margin-top:12px;padding-top:12px;display:grid;grid-template-columns:80px 1fr;gap:10px">
+      <img src="https://picsum.photos/seed/iphone8/200/200" style="height:80px">
+      <div><h3 style="font-size:16px">iPhone 18 Pro Supply Chain Points to Spring</h3><div class="more">AppleInsider →</div></div>
+    </div>
+  </div>
+</div>
+</div>

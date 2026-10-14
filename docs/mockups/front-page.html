@@ -1,0 +1,150 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Space+Grotesk:wght@500;700&family=Bodoni+Moda:opsz,wght@6..96,400&display=swap" rel="stylesheet">
+<style>
+  .td { --paper:#f1ede4; --ink:#1d1b18; --muted:#57524a; --accent:#d9661b; --rule:#1d1b18; --rule2:rgba(29,27,24,.35);
+        position:relative; color:var(--ink); font-family:'Source Serif 4',serif; padding:26px 32px 0; border-radius:3px; overflow:hidden;
+        background-color:var(--paper);
+        /* newsprint: fine grain + paper fibers + uneven tone */
+        background-image:
+          url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='300'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 .25  0 0 0 0 .22  0 0 0 0 .18  0 0 0 .5 0'/></filter><rect width='100%' height='100%' filter='url(%23n)' opacity='.28'/></svg>"),
+          url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='600' height='600'><filter id='f'><feTurbulence type='fractalNoise' baseFrequency='.012 .09' numOctaves='2' seed='4'/><feColorMatrix values='0 0 0 0 .35  0 0 0 0 .3  0 0 0 0 .24  0 0 0 .1 0'/></filter><rect width='100%' height='100%' filter='url(%23f)'/></svg>"),
+          radial-gradient(ellipse at 30% 20%, rgba(255,255,255,.35), transparent 60%),
+          radial-gradient(ellipse at 80% 90%, rgba(120,95,60,.08), transparent 55%);
+        box-shadow:0 1px 0 #cfc7b5, 0 10px 34px rgba(0,0,0,.28);
+  }
+  .td * { box-sizing:border-box; }
+  .td > * { position:relative; }
+  .td p { margin:0 0 8px; font-size:13px; line-height:1.45; }
+  .td .ink { color:var(--ink); text-shadow:0 0 .4px rgba(29,27,24,.6); } /* slight ink bleed */
+  .td .kick { font-family:'Space Grotesk',sans-serif; font-size:10px; font-weight:700; letter-spacing:.14em; text-transform:uppercase; color:var(--accent); margin-bottom:4px; }
+  .td .more, .td .src { font-family:'Space Grotesk',sans-serif; font-size:10px; font-weight:500; color:var(--muted); }
+  .td h3 { font-family:'DM Serif Display',serif; font-weight:400; font-size:20px; line-height:1.1; margin:0 0 6px; }
+  .td em.dek { font-style:italic; color:#3b3731; }
+
+  /* photos printed on newsprint: desaturated, contrasty, halftone dots */
+  .td .photo { position:relative; overflow:hidden; background:#888 center/cover; filter:grayscale(1) contrast(1.15) sepia(.12); }
+  .td .photo::after { content:""; position:absolute; inset:0; background:radial-gradient(circle, rgba(0,0,0,.35) 35%, transparent 38%) 0 0/3px 3px; mix-blend-mode:multiply; opacity:.5; }
+
+  .td .topline { display:flex; justify-content:space-between; font-family:'Space Grotesk',sans-serif; font-size:10px; font-weight:700; letter-spacing:.12em; text-transform:uppercase; }
+  .td .mastrow { display:grid; grid-template-columns:1fr auto 1fr; align-items:center; border-top:3px double var(--rule); border-bottom:1px solid var(--rule); margin-top:6px; padding:6px 0 4px; }
+  .td .ear { font-family:'Space Grotesk',sans-serif; font-size:9px; letter-spacing:.1em; text-transform:uppercase; line-height:1.5; }
+  .td .ear.r { text-align:right; }
+  .td .sun { text-align:center; color:var(--accent); font-size:20px; line-height:1; }
+  .td .mast { font-family:'DM Serif Display',serif; font-size:92px; line-height:.9; text-align:center; letter-spacing:-.02em; }
+  .td .tagline { text-align:center; font-family:'Space Grotesk',sans-serif; font-size:10px; letter-spacing:.5em; text-transform:uppercase; padding:6px 0; border-bottom:3px double var(--rule); }
+
+  /* weather ear, after the El Mundo page */
+  .td .wx { display:flex; align-items:center; gap:10px; }
+  .td .wx .deg { font-family:'Bodoni Moda',serif; font-size:46px; line-height:.9; }
+  .td .wx svg { width:40px; height:40px; }
+
+  .td .body { display:grid; grid-template-columns:120px 1fr; border-bottom:1px solid var(--rule); }
+  .td .side { border-right:1px solid var(--rule); padding:14px 12px 14px 0; font-family:'Space Grotesk',sans-serif; font-size:12px; }
+  .td .side a { display:flex; justify-content:space-between; color:var(--ink); text-decoration:none; padding:5px 0; border-bottom:1px solid var(--rule2); }
+  .td .side a span { color:var(--muted); font-size:10px; }
+  .td .side .no { font-family:'Bodoni Moda',serif; font-size:30px; margin-top:22px; text-align:center; border-top:1px solid var(--rule); border-bottom:1px solid var(--rule); padding:6px 0; }
+  .td .side .no small { display:block; font-family:'Space Grotesk',sans-serif; font-size:9px; letter-spacing:.14em; }
+
+  .td .main { display:grid; grid-template-columns:2.1fr 1fr; }
+  .td .lead { padding:14px 16px; border-right:1px solid var(--rule); }
+  .td .lead h1 { font-family:'DM Serif Display',serif; font-weight:400; font-size:42px; line-height:1; margin:10px 0 8px; }
+  .td .lead .dropcap::first-letter { font-family:'DM Serif Display',serif; float:left; font-size:48px; line-height:.85; padding:4px 6px 0 0; }
+  .td .lead .cols { column-count:2; column-gap:18px; column-rule:1px solid var(--rule2); }
+  .td .right { padding:14px 0 14px 16px; }
+  .td .right > div + div { border-top:1px solid var(--rule2); padding-top:12px; margin-top:12px; }
+  .td .pull { font-family:'Source Serif 4',serif; font-style:italic; font-size:17px; line-height:1.35; border-top:1px solid var(--rule); border-bottom:1px solid var(--rule); padding:10px 0; text-align:center; }
+  .td .pull .q { font-family:'DM Serif Display',serif; color:var(--accent); font-size:34px; line-height:.5; display:block; margin-top:8px; }
+
+  .td .row3 { display:grid; grid-template-columns:repeat(4,1fr); border-bottom:1px solid var(--rule); }
+  .td .row3 > div { padding:12px 14px; }
+  .td .row3 > div + div { border-left:1px solid var(--rule); }
+  .td .row3 h3 { font-size:17px; }
+
+  .td .ticker { margin:0 -32px; background:var(--ink); color:var(--paper); font-family:'Space Grotesk',sans-serif; font-size:10px; letter-spacing:.06em; white-space:nowrap; overflow:hidden; padding:6px 0; }
+  .td .ticker span { display:inline-block; padding-left:100%; animation:tick 40s linear infinite; }
+  .td .ticker b { color:var(--accent); margin:0 6px 0 22px; }
+  @keyframes tick { to { transform:translateX(-100%); } }
+</style>
+
+<h2>The Daily, front page (draft 4: lighter newsprint)</h2>
+<p class="subtitle">Same as draft 3 with a lighter paper tone and about half the grain and fibers. Weather is set to Fort Wayne (46845).</p>
+
+<div class="td ink">
+  <div class="topline"><span>Tuesday, October 13, 2026</span><span>Morning Edition</span><span>Vol. 1 · No. 1</span></div>
+
+  <div class="mastrow">
+    <div class="wx">
+      <svg viewBox="0 0 48 48" fill="none" stroke="#1d1b18" stroke-width="2.4" stroke-linecap="round"><circle cx="20" cy="20" r="7"/><path d="M20 6v4M20 30v4M6 20h4M30 20h4M10 10l3 3M27 27l3 3M30 10l-3 3M10 30l3-3"/><path d="M22 40h16a6 6 0 0 0 0-12 9 9 0 0 0-16 3 5 5 0 0 0 0 9z" fill="#f1ede4"/></svg>
+      <div><div class="deg">64°</div><div class="ear">Fort Wayne · Partly cloudy<br>H 71° · L 52°</div></div>
+    </div>
+    <div>
+      <div class="sun">☀</div>
+      <div class="mast">The Daily</div>
+    </div>
+    <div class="ear r">Today's edition<br><b>68 stories</b> from 25 sources<br>Built 5:00 AM ET</div>
+  </div>
+  <div class="tagline">Tech · Sport · Fiber · Play</div>
+
+  <div class="body">
+    <div class="side">
+      <a href="#">Technology <span>12</span></a>
+      <a href="#">Apple <span>10</span></a>
+      <a href="#">Sports <span>12</span></a>
+      <a href="#">Endurance <span>7</span></a>
+      <a href="#">Leadership <span>6</span></a>
+      <a href="#">Fiber &amp; Telecom <span>9</span></a>
+      <a href="#">Video Games <span>12</span></a>
+      <a href="#" style="margin-top:14px;border:0;color:#57524a">Archive →</a>
+      <div class="no">No. 1<small>Issue</small></div>
+    </div>
+
+    <div class="main">
+      <div class="lead">
+        <div class="photo" style="height:250px;background-image:url('https://picsum.photos/seed/laptop71/900/600')"></div>
+        <div class="kick" style="margin-top:12px">Apple · Lead story</div>
+        <h1>Apple Unveils New M6 MacBook Pro Line</h1>
+        <p><em class="dek">Redesigned laptops headline a surprise October event, and four outlets are covering it this morning.</em></p>
+        <div class="cols">
+          <p class="dropcap">Apple introduced redesigned 14- and 16-inch MacBook Pro models powered by the M6 family, promising up to 24 hours of battery life and a brighter mini-LED display. Shipments begin next week, with configurations starting at the same price as last year's models.</p>
+          <p class="src">MacRumors · 9to5Mac · AppleInsider · The Verge</p>
+          <p class="more" style="color:#1d1b18;font-weight:700">Read the full story →</p>
+        </div>
+      </div>
+      <div class="right">
+        <div>
+          <div class="kick">Fiber &amp; Telecom</div>
+          <h3>BEAD Funds Begin Flowing to Rural Fiber Builds</h3>
+          <p><em class="dek">States report first disbursements as construction season stretches on.</em></p>
+          <div class="more">Telecompetitor →</div>
+        </div>
+        <div>
+          <div class="photo" style="height:110px;background-image:url('https://picsum.photos/seed/trail4/500/300');margin-bottom:8px"></div>
+          <div class="kick">Endurance</div>
+          <h3 style="font-size:17px">Course Record Falls at Fall Ultra Classic</h3>
+          <div class="more">iRunFar →</div>
+        </div>
+        <div class="pull">
+          <span class="q">“</span>
+          The best way to predict the future is to create it.
+          <div class="more" style="margin-top:6px;font-style:normal">Peter Drucker · Quote of the day</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row3">
+    <div><div class="kick">Sports</div><h3>Playoff Picture Tightens After Wild Weekend</h3><p><em class="dek">Three division races come down to the final week.</em></p><div class="more">ESPN →</div></div>
+    <div><div class="kick">Technology</div><h3>The Chip Shortage Is Back, Quietly</h3><p><em class="dek">Lead times are creeping up again.</em></p><div class="more">Ars Technica →</div></div>
+    <div><div class="kick">Video Games</div><h3>The Year's Most Anticipated Indie Gets a Date</h3><div class="more">Polygon →</div></div>
+    <div><div class="kick">Leadership</div><h3>Why Great Managers Ask Fewer Questions</h3><div class="more">First Round Review →</div></div>
+  </div>
+
+  <div class="ticker"><span>
+    <b>Apple</b> watchOS 13.1 adds training load
+    <b>Sports</b> Trade deadline winners and losers
+    <b>Telecom</b> Fiber pass counts hit record in Q3
+    <b>Games</b> Handheld PC prices drop ahead of holidays
+    <b>Endurance</b> DC Rainmaker reviews the new Forerunner
+    <b>Tech</b> Browser makers agree on new privacy standard
+  </span></div>
+</div>
