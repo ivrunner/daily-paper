@@ -2,8 +2,12 @@ name: Daily edition
 
 on:
   schedule:
-    - cron: "0 9 * * *"    # 5 AM EDT / 4 AM EST
-    - cron: "0 10 * * *"   # 6 AM EDT / 5 AM EST
+    # Several attempts, off the top of the hour (GitHub drops busy-minute runs).
+    # The time gate below builds once, at the first attempt landing in 5–6 AM Eastern.
+    - cron: "13 9 * * *"   # 5:13 AM EDT / 4:13 AM EST
+    - cron: "43 9 * * *"   # 5:43 AM EDT / 4:43 AM EST
+    - cron: "13 10 * * *"  # 6:13 AM EDT / 5:13 AM EST
+    - cron: "43 10 * * *"  # 6:43 AM EDT / 5:43 AM EST
   workflow_dispatch:
 
 permissions:
@@ -22,6 +26,8 @@ jobs:
       go: ${{ steps.gate.outputs.go }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main  # latest main, so a late run sees an edition saved minutes earlier
 
       - name: Time gate (5 AM Eastern, once a day)
         id: gate
