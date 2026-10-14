@@ -115,3 +115,30 @@ def entry_to_article(entry, *, source: str, section_slug: str, fetched_at: datet
         title=title, link=link, summary=summary, source=source, section_slug=section_slug,
         published=parse_published(entry, fallback=fetched_at), image_url=find_image(entry),
     )
+
+
+def _same_story(a: Article, b: Article) -> bool:
+    return (normalize_url(a.link) == normalize_url(b.link)
+            or similarity(title_words(a.title), title_words(b.title)) >= DUPLICATE_SIMILARITY)
+
+
+def _merge(kept: Article, dup: Article) -> Article:
+    winner = dup if kept.image_url is None and dup.image_url else kept
+    sources: list[str] = []
+    for name in [kept.source, *kept.also_covered_by, dup.source, *dup.also_covered_by]:
+        if name != winner.source and name not in sources:
+            sources.append(name)
+    winner.also_covered_by = sources
+    return winner
+
+
+def dedupe(articles: list[Article]) -> list[Article]:
+    kept: list[Article] = []
+    for article in sorted(articles, key=lambda a: a.published, reverse=True):
+        for i, existing in enumerate(kept):
+            if _same_story(existing, article):
+                kept[i] = _merge(existing, article)
+                break
+        else:
+            kept.append(article)
+    return kept
