@@ -1,0 +1,1020 @@
+{
+ "date": "2026-10-14",
+ "built_at": "2026-10-14T07:50:07.245957-04:00",
+ "volume": 1,
+ "issue": 2,
+ "lead": {
+  "title": "Ubisoft are making layoffs at Assassin's Creed Black Flag Resynced studio Ubisoft Singapore while closing Trials creators Redlynx, according to report",
+  "link": "https://www.rockpapershotgun.com/ubisoft-are-making-layoffs-at-assassins-creed-black-flag-resynced-studio-ubisoft-singapore-while-closing-trials-creators-redlynx-according-to-report",
+  "summary": "Ubisoft are planning to shut down RedLynx, creators of the side-scrolling Trials arcade racing games, according to a report, while laying off staff at Assassin's Creed Black Flag Resynched studio Ubisoft Singapore. Read more",
+  "source": "Rock Paper Shotgun",
+  "section_slug": "video-games",
+  "published": "2026-10-14T10:43:55+00:00",
+  "image_url": "https://assetsio.gnwcdn.com/black-flag-gold-outfit.png?width=690&quality=85&format=jpg&auto=webp",
+  "also_covered_by": [
+   "IGN"
+  ]
+ },
+ "front": [
+  {
+   "title": "The Tesla Roadster could have stayed vaporware",
+   "link": "https://www.theverge.com/transportation/1010694/tesla-roadster-reveal-vaporware-spacex-elon-musk",
+   "summary": "For a car that's supposed to be one of the fastest ever made, the new Tesla Roadster certainly took its sweet-ass time getting here. It's been nearly a decade since Elon Musk made the surprise announcement about plans to build a next-gen Roadster. Now, the Tesla Roadster is finally expected to make its production-ready debut […]",
+   "source": "The Verge",
+   "section_slug": "technology",
+   "published": "2026-10-14T11:00:00+00:00",
+   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Roadster_08.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "also_covered_by": []
+  },
+  {
+   "title": "Apple challenges Taction’s $5.7B patent verdict, says damages were based on ‘guesswork’",
+   "link": "https://9to5mac.com/2026/10/13/apple-challenges-tactions-5-7b-patent-verdict-says-damages-were-based-on-guesswork/",
+   "summary": "Apple is asking a federal judge to overturn a $5.7 billion verdict in a patent infringement lawsuit brought by Taction Technology over the Taptic Engine used in iPhones and Apple Watches. Here are the details. more…",
+   "source": "9to5Mac",
+   "section_slug": "apple",
+   "published": "2026-10-14T00:56:57+00:00",
+   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&strip=all&w=1600",
+   "also_covered_by": [
+    "AppleInsider"
+   ]
+  },
+  {
+   "title": "Pereira's sister, Aline, misses out of UFC contract",
+   "link": "https://sports.yahoo.com/articles/pereiras-sister-aline-misses-ufc-112540928.html",
+   "summary": "Aline Pereira - the sister of former UFC two-division champion Alex - misses out on a UFC contract after losing on Dana White's Contender Series.",
+   "source": "Yahoo Sports",
+   "section_slug": "sports",
+   "published": "2026-10-14T11:44:07+00:00",
+   "image_url": "https://media.zenfs.com/en/bbc_us_articles_995/b00ce7e06bff86324a5b26083891c695.jpg",
+   "also_covered_by": []
+  },
+  {
+   "title": "Black Diamond Sprinter 500 Headlamp Review",
+   "link": "https://www.irunfar.com/black-diamond-sprinter-500-headlamp-review",
+   "summary": "",
+   "source": "iRunFar",
+   "section_slug": "endurance",
+   "published": "2026-10-14T10:00:38+00:00",
+   "image_url": "https://s3.amazonaws.com/www.irunfar.com/wp-content/uploads/2026/09/30134500/Black-Diamond-Sprinter-500-feature.jpg",
+   "also_covered_by": []
+  },
+  {
+   "title": "Why Every High-Performing Leader Needs a Pacer",
+   "link": "https://sloanreview.mit.edu/article/why-every-high-performing-leader-needs-a-pacer/",
+   "summary": "Matt Harrison Clough/Ikon Images Jakob Ingebrigtsen, one of the best middle-distance runners ever, has won gold medals for Norway in two Olympics, won multiple world championships, and set five world records at distances between 1,500 meters and 2 miles. Watch him and you’ll see that he’s often aided by someone running with him for part […]",
+   "source": "MIT Sloan Management Review",
+   "section_slug": "leadership",
+   "published": "2026-10-14T11:00:33+00:00",
+   "image_url": "https://sloanreview.mit.edu/wp-content/uploads/2026/09/Detert_Pacer-1290x860-1.jpg",
+   "also_covered_by": []
+  },
+  {
+   "title": "Verizon CTO: 6G needs a breakthrough for AI uplink demand",
+   "link": "https://www.lightreading.com/6g/verizon-cto-6g-needs-a-breakthrough-for-ai-uplink-demand",
+   "summary": "Verizon CTO Yago Tenorio says industry is 'missing a breakthrough' in 6G for uplink capacity as future AI applications change network traffic patterns.",
+   "source": "Light Reading",
+   "section_slug": "fiber-telecom",
+   "published": "2026-10-14T10:00:00+00:00",
+   "image_url": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt8a4eef8686ebb885/68d29fa042ae2225eb9e98f1/Yago_Tenorio_Verizon_CTO.png?width=720&quality=80&disable=upscale",
+   "also_covered_by": []
+  }
+ ],
+ "sections": [
+  {
+   "number": 1,
+   "name": "Technology",
+   "slug": "technology",
+   "articles": [
+    {
+     "title": "The Tesla Roadster could have stayed vaporware",
+     "link": "https://www.theverge.com/transportation/1010694/tesla-roadster-reveal-vaporware-spacex-elon-musk",
+     "summary": "For a car that's supposed to be one of the fastest ever made, the new Tesla Roadster certainly took its sweet-ass time getting here. It's been nearly a decade since Elon Musk made the surprise announcement about plans to build a next-gen Roadster. Now, the Tesla Roadster is finally expected to make its production-ready debut […]",
+     "source": "The Verge",
+     "section_slug": "technology",
+     "published": "2026-10-14T11:00:00+00:00",
+     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Roadster_08.jpg?quality=90&strip=all&crop=0,0,100,100",
+     "also_covered_by": []
+    },
+    {
+     "title": "Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting",
+     "link": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
+     "summary": "Repairable, ethical phone brand Fairphone has released its second pair of earbuds. The Fairbuds 2 are just as repairable as the first generation, but deliver improved audio and almost twice the battery life. The Fairbuds 2 are out now in the UK and Europe from £99 / €119, and a US launch at $119 will […]",
+     "source": "The Verge",
+     "section_slug": "technology",
+     "published": "2026-10-14T11:00:00+00:00",
+     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/fairphone-fairbuds-2-5.jpg?quality=90&strip=all&crop=0,0,100,100",
+     "also_covered_by": []
+    },
+    {
+     "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+     "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+     "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+     "source": "TechCrunch",
+     "section_slug": "technology",
+     "published": "2026-10-14T11:00:00+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+     "link": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+     "summary": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
+     "source": "TechCrunch",
+     "section_slug": "technology",
+     "published": "2026-10-14T01:30:42+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+     "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+     "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+     "source": "TechCrunch",
+     "section_slug": "technology",
+     "published": "2026-10-13T23:13:31+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+     "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+     "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+     "source": "TechCrunch",
+     "section_slug": "technology",
+     "published": "2026-10-13T23:05:34+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+     "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+     "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+     "source": "TechCrunch",
+     "section_slug": "technology",
+     "published": "2026-10-13T23:00:00+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
+     "link": "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
+     "summary": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
+     "source": "Ars Technica",
+     "section_slug": "technology",
+     "published": "2026-10-13T22:48:12+00:00",
+     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2017/06/GettyImages-803564026-1152x648.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Apple’s HomeView ad is confusing to everyone except parents",
+     "link": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
+     "summary": "Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarded eggshells. Apple's typical vibe is clean, simple, orderly; this commercial is chaos. But the spot has parents - those […]",
+     "source": "The Verge",
+     "section_slug": "technology",
+     "published": "2026-10-13T22:10:00+00:00",
+     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/family_hero.jpg?quality=90&strip=all&crop=0,0,100,100",
+     "also_covered_by": []
+    },
+    {
+     "title": "ESA targets Anbernic emulation handhelds as \"superfake\" piracy enablers",
+     "link": "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
+     "summary": "But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards.",
+     "source": "Ars Technica",
+     "section_slug": "technology",
+     "published": "2026-10-13T21:55:49+00:00",
+     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anbernic2-1152x648-1791926080.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Topgolf saved over $11.3 million after leaving VMware",
+     "link": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
+     "summary": "Topgolf and VMware \"ran deep\" before the migration.",
+     "source": "Ars Technica",
+     "section_slug": "technology",
+     "published": "2026-10-13T21:33:43+00:00",
+     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/11-TGFW-Tee-Line-X2-1152x648.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+     "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+     "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department […]",
+     "source": "The Verge",
+     "section_slug": "technology",
+     "published": "2026-10-13T20:45:25+00:00",
+     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0,0,100,100",
+     "also_covered_by": []
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "name": "Apple",
+   "slug": "apple",
+   "articles": [
+    {
+     "title": "Apple challenges Taction’s $5.7B patent verdict, says damages were based on ‘guesswork’",
+     "link": "https://9to5mac.com/2026/10/13/apple-challenges-tactions-5-7b-patent-verdict-says-damages-were-based-on-guesswork/",
+     "summary": "Apple is asking a federal judge to overturn a $5.7 billion verdict in a patent infringement lawsuit brought by Taction Technology over the Taptic Engine used in iPhones and Apple Watches. Here are the details. more…",
+     "source": "9to5Mac",
+     "section_slug": "apple",
+     "published": "2026-10-14T00:56:57+00:00",
+     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&strip=all&w=1600",
+     "also_covered_by": [
+      "AppleInsider"
+     ]
+    },
+    {
+     "title": "Apple’s frenetic HomeView video showed the one use-case for this device",
+     "link": "https://9to5mac.com/2026/10/14/apples-frenetic-homeview-video-showed-the-one-use-case-for-this-device/",
+     "summary": "The launch video Apple created to show off the long-awaited HomeView product couldn’t have been more different from its usual fare. While just watching it gave me a feeling of anxiety, I suspect it perfectly encapsulates the one use-case for this device … more…",
+     "source": "9to5Mac",
+     "section_slug": "apple",
+     "published": "2026-10-14T11:36:08+00:00",
+     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apples-HomeView-video-showed-the-one-use-case-for-this-device.jpg?quality=82&strip=all&w=1600",
+     "also_covered_by": []
+    },
+    {
+     "title": "Precision Finding on the new Siri Remote comes with an unexpected catch",
+     "link": "https://appleinsider.com/articles/26/10/14/precision-finding-on-the-new-siri-remote-comes-with-an-unexpected-catch?utm_source=rss",
+     "summary": "Apple's new Siri Remote adds Precision Finding, but the feature won't work with iPhone 15 or iPhone 16 models, even though they support advanced Ultra Wideband tracking. iPhone 16 Pro Max Introduced alongside the fourth-generation Apple TV , the updated remote adds more precise location guidance through Find My and a built-in speaker that can play a sound when the…",
+     "source": "AppleInsider",
+     "section_slug": "apple",
+     "published": "2026-10-14T11:19:48+00:00",
+     "image_url": "https://media.appleinsider.com/gallery/69352-146234-Design-back-16-Pro-Max-xl.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Getting a HomeView repaired could cost 93% of just replacing it",
+     "link": "https://appleinsider.com/articles/26/10/14/getting-a-homeview-repaired-could-cost-93-of-just-replacing-it?utm_source=rss",
+     "summary": "Apple has revealed a flat-rate charge for repairing any damage to a HomeView , and without AppleCare insurance, it's $279. Apple will charge $279 to repair a $299 HomeView, if you don't have AppleCare insurance. HomeView image credit: Apple As always, Apple makes sure that its service and repair charges make its AppleCare insurance options as attractive as possible. But…",
+     "source": "AppleInsider",
+     "section_slug": "apple",
+     "published": "2026-10-14T11:18:24+00:00",
+     "image_url": "https://media.appleinsider.com/gallery/69369-146278-000-lead-HomeView-AppleCare-xl.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Apple Watch Sleep Apnea Notifications Launch in China",
+     "link": "https://www.macrumors.com/2026/10/14/apple-watch-sleep-apnea-notifications-china/",
+     "summary": "Apple today launched sleep apnea notifications in mainland China, following approval from the country's National Medical Products Administration. The feature is supported on the Apple Watch Series 9, Ultra 2, SE 3, and newer. The Apple Watch uses its accelerometer to monitor breathing disturbances during sleep, analyzing the data every 30 days for signs of moderate to severe sleep apnea…",
+     "source": "MacRumors",
+     "section_slug": "apple",
+     "published": "2026-10-14T11:05:07+00:00",
+     "image_url": "https://images.macrumors.com/article-new/2020/09/apple-watch-se-3-sleep-apnea.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "HomeView's Faces Include Snoopy, Photos, and Interactive Artwork",
+     "link": "https://www.macrumors.com/2026/10/14/homeviews-faces-include-snoopy-and-more/",
+     "summary": "Apple's HomeView includes customizable faces for photos, animations, and smart home controls. Faces Apple has named so far include: Photos Flow Snoopy Calendar Weather Home Modular Home Camera Other clock and widget layouts appear in Apple's promotional images, but have not yet been named. Apple says that selected faces change throughout the day, with different appearances for mornings and evenings…",
+     "source": "MacRumors",
+     "section_slug": "apple",
+     "published": "2026-10-14T11:00:26+00:00",
+     "image_url": "https://images.macrumors.com/article-new/2026/10/homeview-faces.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "(Podcast) Designed in California 13: The MP3 Revolution (Part 1, Origin of the iPod)",
+     "link": "https://sixcolors.com/podcast/2026/10/designed-in-california-13-the-mp3-revolution-part-1-origin-of-the-ipod/",
+     "summary": "Two decades after the Walkman had revolutionized personal audio, a new compressed digital audio format emerged that would redefine how we listen to music. We kick off our series about the origin of Apple’s hit MP3 player, the iPod.…",
+     "source": "Six Colors",
+     "section_slug": "apple",
+     "published": "2026-10-14T09:00:00+00:00",
+     "image_url": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/10/designed_artwork_337c47f1-faa1-491f-b2af-ae3aa176cd81.jpg?fit=680%2C680&ssl=1",
+     "also_covered_by": []
+    },
+    {
+     "title": "Apple's HomeView Repair Fees Revealed",
+     "link": "https://www.macrumors.com/2026/10/13/apple-homeview-repair-fees/",
+     "summary": "If you damage Apple's new HomeView smart home hub, here is what the repair fees are set at: $39 with AppleCare+ coverage and $279 without. These fees apply to any type of damage to either the tabletop or wall-mounted HomeView models. In the U.S., AppleCare+ coverage for the HomeView is priced at $2.49 per month or $24.99 per year until…",
+     "source": "MacRumors",
+     "section_slug": "apple",
+     "published": "2026-10-14T00:44:32+00:00",
+     "image_url": "https://images.macrumors.com/article-new/2026/10/Apple-HomeView-lineup-feature5.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Apple has appealed the $5.7B Taction verdict, arguing jury got it all wrong",
+     "link": "https://appleinsider.com/articles/26/10/14/apple-has-appealed-the-57b-taction-verdict-arguing-jury-got-it-all-wrong?utm_source=rss",
+     "summary": "A new filing suggests that not only does Apple not violate Taction's patents, but the jury arrived at the record $5.7 billion in damages \"based on guesswork\" and should be tossed. Apple is facing a record fine over patents In April 2021, Taction Technology sued Apple for allegedly infringing on two Taction patents dealing with haptic feedback. It argued that…",
+     "source": "AppleInsider",
+     "section_slug": "apple",
+     "published": "2026-10-14T00:43:25+00:00",
+     "image_url": "https://media.appleinsider.com/gallery/69367-146262-Apple-Watch-Series-11-table-xl.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Third-party HomeView apps? Think CarPlay",
+     "link": "https://sixcolors.com/post/2026/10/third-party-homeview-apps-think-carplay/",
+     "summary": "HomeView’s got a limited catalog of Apple apps. Apple’s new HomeView device doesn’t have an App Store, but it does have an app story , of a sort.…",
+     "source": "Six Colors",
+     "section_slug": "apple",
+     "published": "2026-10-14T00:14:38+00:00",
+     "image_url": "https://i0.wp.com/sixcolors.com/wp-content/uploads/2026/10/built-in-apps-and-iphone-available-apps-icons-6c.png?ssl=1",
+     "also_covered_by": []
+    },
+    {
+     "title": "Here’s how much it costs to repair the new Apple HomeView",
+     "link": "https://9to5mac.com/2026/10/13/heres-how-much-it-costs-to-repair-the-new-apple-homeview/",
+     "summary": "Apple has published the estimated service costs for its new HomeView smart home display, including how much customers can expect to pay with and without AppleCare coverage. Here are the details. more…",
+     "source": "9to5Mac",
+     "section_slug": "apple",
+     "published": "2026-10-14T00:10:48+00:00",
+     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-4.jpg?quality=82&strip=all&w=1600",
+     "also_covered_by": []
+    },
+    {
+     "title": "Everything Apple Still Has Coming in October",
+     "link": "https://www.macrumors.com/2026/10/13/apple-october-upcoming-products/",
+     "summary": "Apple debuted three new home products today, but the October announcements aren't over yet. Rumors suggest there will be another \"event\" on October 27, plus we're still waiting on the iPhone Duo . Here's everything we're expecting to see launch or be announced in October. October 16 - ‌iPhone Duo‌ pre-orders start. October 23 - ‌iPhone Duo‌ launches. October 27…",
+     "source": "MacRumors",
+     "section_slug": "apple",
+     "published": "2026-10-13T23:47:04+00:00",
+     "image_url": "https://images.macrumors.com/article-new/2026/10/MacBook-Pro-Ultra-Feature-1.jpg",
+     "also_covered_by": []
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "name": "Sports",
+   "slug": "sports",
+   "articles": [
+    {
+     "title": "Pereira's sister, Aline, misses out of UFC contract",
+     "link": "https://sports.yahoo.com/articles/pereiras-sister-aline-misses-ufc-112540928.html",
+     "summary": "Aline Pereira - the sister of former UFC two-division champion Alex - misses out on a UFC contract after losing on Dana White's Contender Series.",
+     "source": "Yahoo Sports",
+     "section_slug": "sports",
+     "published": "2026-10-14T11:44:07+00:00",
+     "image_url": "https://media.zenfs.com/en/bbc_us_articles_995/b00ce7e06bff86324a5b26083891c695.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Police investigate racial abuse of Swans' Eom claim",
+     "link": "https://sports.yahoo.com/articles/police-investigate-racial-abuse-swans-114300101.html",
+     "summary": "Swansea City boss Vitor Matos says South Korean winger Ji-sung Eom was targeted by racist abuse at Millwall on Tuesday.",
+     "source": "Yahoo Sports",
+     "section_slug": "sports",
+     "published": "2026-10-14T11:43:00+00:00",
+     "image_url": "https://media.zenfs.com/en/bbc_us_articles_995/90df08b406b8390febe403674061aaeb.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Chase Brown Faces Reduced Role In Bengals Backfield",
+     "link": "https://sports.yahoo.com/articles/chase-brown-faces-reduced-role-114000518.html",
+     "summary": "The Bengals are the only NFL team without a 14-yard run this year. Discover why Samaje Perine's recent success might shrink Chase Brown's workload.",
+     "source": "Yahoo Sports",
+     "section_slug": "sports",
+     "published": "2026-10-14T11:40:00+00:00",
+     "image_url": "https://media.zenfs.com/en/gameday_times_324/00f54923cca318d2fb3baf9a154bd810.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "‘I didn’t even know that’ – LeBron James shocked that Steve Nash’s godson is in the NBA",
+     "link": "https://sports.yahoo.com/articles/didn-t-even-know-lebron-114000073.html",
+     "summary": "LeBron James has played against almost everyone, but even he was left completely out of the loop on this NBA lineage. NBA crossovers are wild, and it’s not just about guys breaking ankles with a sick dribble move on the court.",
+     "source": "Yahoo Sports",
+     "section_slug": "sports",
+     "published": "2026-10-14T11:40:00+00:00",
+     "image_url": "https://media.zenfs.com/en/hitc_articles_832/99344a672170b90fb7756269ccc0abb3.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Section V football schedule for Week 7: List of every game",
+     "link": "https://sports.yahoo.com/articles/section-v-football-schedule-week-113959388.html",
+     "summary": "See the schedule of Section V football games for Week 7 of the 2026 season.",
+     "source": "Yahoo Sports",
+     "section_slug": "sports",
+     "published": "2026-10-14T11:39:59+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "Borgata Sportsbook promo code 2026: Bet $20, get $100 instantly in bonus bets",
+     "link": "https://www.cbssports.com/betting/news/borgata-promo-code/",
+     "summary": "Borgata Sportsbook promo code for new users: CBS100 to bet $20, get $100 instantly in bonus bets",
+     "source": "CBS Sports",
+     "section_slug": "sports",
+     "published": "2026-10-14T11:14:48+00:00",
+     "image_url": "https://sportshub.cbsistatic.com/i/2025/07/27/39cd82fe-9afa-4218-b587-802e92ced40e/borgata-promo-code-and-review.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Ashley Sanchez makes her case as USWNT battle back for draw against Spain",
+     "link": "https://www.cbssports.com/soccer/news/ashley-sanchez-makes-her-case-uswnt/",
+     "summary": "Ashley Sanchez and Mallory Swanson scored to help the U.S. team claw their way out of a 2-0 deficit against the world champions",
+     "source": "CBS Sports",
+     "section_slug": "sports",
+     "published": "2026-10-14T11:03:21+00:00",
+     "image_url": "https://sportshub.cbsistatic.com/i/2026/10/14/b23c9dcd-f56a-422d-ae75-2842610c956d/uswnt-5.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "What to watch in UEFA Champions League: All eyes on Manchester City vs PSG; Real Madrid face big test at Roma",
+     "link": "https://www.cbssports.com/soccer/news/what-to-watch-in-uefa-champions-league-manchester-city-psg/",
+     "summary": "Enzo Maresca's side faces the ultimate tactical test against back-to-back champions PSG, while Jose Mourinho brings Real Madrid to the Stadio Olimpico",
+     "source": "CBS Sports",
+     "section_slug": "sports",
+     "published": "2026-10-14T10:45:45+00:00",
+     "image_url": "https://sportshub.cbsistatic.com/i/2026/10/14/d67ee1a6-d1a0-4d96-a5f1-81d7149b9e5a/untitled-design-2026-10-14t133916-290.png",
+     "also_covered_by": []
+    },
+    {
+     "title": "Prisco's Week 6 NFL picks: Seahawks over Broncos on Thursday night, Buccaneers upset Steelers",
+     "link": "https://www.cbssports.com/nfl/news/pete-priscos-week-6-nfl-picks-odds-predictions/",
+     "summary": "Pete Prisco reveals all of his Week 6 picks, including the Packers over the Cowboys on 'Sunday Night Football'",
+     "source": "CBS Sports",
+     "section_slug": "sports",
+     "published": "2026-10-14T10:00:53+00:00",
+     "image_url": "https://sportshub.cbsistatic.com/i/2026/10/07/5f2eab0b-a52a-411e-9fee-fc93bc42f937/emanuel-wilson-getty.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Why Roma fans still revere Real Madrid boss Jose Mourinho ahead of his emotional Champions League return",
+     "link": "https://www.cbssports.com/soccer/news/jose-mourinho-real-madrid-roma-champions-league-return/",
+     "summary": "The Giallorossi will host Real Madrid and their former coach on Wednesday at the Stadio Olimpico",
+     "source": "CBS Sports",
+     "section_slug": "sports",
+     "published": "2026-10-14T09:58:12+00:00",
+     "image_url": "https://sportshub.cbsistatic.com/i/2026/10/14/83dba9d5-568c-456d-81d6-2a5e2fff2989/untitled-design-2026-10-14t124613-171.png",
+     "also_covered_by": []
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "name": "Endurance",
+   "slug": "endurance",
+   "articles": [
+    {
+     "title": "Black Diamond Sprinter 500 Headlamp Review",
+     "link": "https://www.irunfar.com/black-diamond-sprinter-500-headlamp-review",
+     "summary": "",
+     "source": "iRunFar",
+     "section_slug": "endurance",
+     "published": "2026-10-14T10:00:38+00:00",
+     "image_url": "https://s3.amazonaws.com/www.irunfar.com/wp-content/uploads/2026/09/30134500/Black-Diamond-Sprinter-500-feature.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Thanksgiving week sales on running gear",
+     "link": "https://runningmagazine.ca/buyers-guide/thanksgiving-week-sales-on-running-gear/",
+     "summary": "Top fall deals to upgrade your running wardrobe",
+     "source": "Canadian Running",
+     "section_slug": "endurance",
+     "published": "2026-10-14T00:14:46+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "I Counted Gear at the 2026 Ironman World Championship. This is What I Saw.",
+     "link": "https://www.triathlete.com/gear/bike/expert-takeaways-from-the-2026-ironman-world-championship-bike-count/",
+     "summary": "There’s more than meets the eye when looking at a decade’s worth of Kona bike count data. As an industry insider, here’s what I’ve witnessed since I first began in 2006. Read the full article at I Counted Gear at the 2026 Ironman World Championship. This is What I Saw. on Triathlete .",
+     "source": "Triathlete",
+     "section_slug": "endurance",
+     "published": "2026-10-13T21:28:18+00:00",
+     "image_url": "https://cdn.triathlete.com/wp-content/uploads/2026/10/Kona-bike-count-facts-and-figures.jpg?width=1200",
+     "also_covered_by": []
+    },
+    {
+     "title": "Canadians to watch for at this weekend’s TCS Toronto Waterfront Marathon",
+     "link": "https://runningmagazine.ca/sections/runs-races/canadians-to-watch-for-at-this-weekends-tcs-toronto-waterfront-marathon/",
+     "summary": "Rachel Hannah looks to defend her title at the Canadian Marathon Championship–and the men's race is anyone's to win",
+     "source": "Canadian Running",
+     "section_slug": "endurance",
+     "published": "2026-10-13T19:50:44+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "SHOE REVIEW: Adidas Adizero Adios Pro 5",
+     "link": "https://runningmagazine.ca/sections/gear/shoes/shoe-review-adidas-adizero-adios-pro-5/",
+     "summary": "The Adios Pro 5 from Adidas is the newest in the line of next-generation race-day shoes",
+     "source": "Canadian Running",
+     "section_slug": "endurance",
+     "published": "2026-10-13T18:53:15+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "17-year-old Ontario runner conquers Finlayson Arm 50-miler",
+     "link": "https://runningmagazine.ca/trail-running/17-year-old-ontario-runner-conquers-finlayson-arm-50-miler/",
+     "summary": "Mississauga's Alex Muresan has already finished a marathon and two ultras",
+     "source": "Canadian Running",
+     "section_slug": "endurance",
+     "published": "2026-10-13T16:20:37+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "Quebec’s Remi Leroux reaches podium at Mountain Running World Cup final",
+     "link": "https://runningmagazine.ca/trail-running/quebecs-remi-leroux-reaches-podium-at-mountain-running-world-cup-final/",
+     "summary": "The Mountain Running World Cup wrapped up at Quebec's Mont-Sainte-Anne, with two days of racing and Canadian titles on the line",
+     "source": "Canadian Running",
+     "section_slug": "endurance",
+     "published": "2026-10-13T15:01:49+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "Build an Ironman Pro-Approved Gear Closet With This Kona-Tested Gear",
+     "link": "https://www.triathlete.com/gear/kona-tested-pro-gear-you-can-buy/",
+     "summary": "We tracked down the latest and greatest Kona-tested gear worn by the pros for you to add to your own gear closet. Read the full article at Build an Ironman Pro-Approved Gear Closet With This Kona-Tested Gear on Triathlete .",
+     "source": "Triathlete",
+     "section_slug": "endurance",
+     "published": "2026-10-13T12:00:02+00:00",
+     "image_url": "https://cdn.triathlete.com/wp-content/uploads/2026/10/212A6918.jpg?width=1200",
+     "also_covered_by": []
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "name": "Leadership",
+   "slug": "leadership",
+   "articles": [
+    {
+     "title": "Why Every High-Performing Leader Needs a Pacer",
+     "link": "https://sloanreview.mit.edu/article/why-every-high-performing-leader-needs-a-pacer/",
+     "summary": "Matt Harrison Clough/Ikon Images Jakob Ingebrigtsen, one of the best middle-distance runners ever, has won gold medals for Norway in two Olympics, won multiple world championships, and set five world records at distances between 1,500 meters and 2 miles. Watch him and you’ll see that he’s often aided by someone running with him for part […]",
+     "source": "MIT Sloan Management Review",
+     "section_slug": "leadership",
+     "published": "2026-10-14T11:00:33+00:00",
+     "image_url": "https://sloanreview.mit.edu/wp-content/uploads/2026/09/Detert_Pacer-1290x860-1.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Things people don’t say",
+     "link": "https://seths.blog/2026/10/things-people-dont-say/",
+     "summary": "Marketers and politicians too. We don’t say them because it’s assumed. And because we’re afraid. “I might be wrong.” “I’m just guessing” “This might be selfishly motivated.” “It could be that I’m hallucinating.” “I heard this somewhere but I don’t know firsthand that it’s true.” “I know I sound certain, but I’m not.” When an […]",
+     "source": "Seth Godin",
+     "section_slug": "leadership",
+     "published": "2026-10-14T09:03:00+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "Bending Spoons product lead sparks fury with X post on Airtable layoffs",
+     "link": "https://www.fastcompany.com/91622894/bending-spoons-product-lead-sparks-fury-with-x-post-on-airtable-layoffs?utm_source=postup&utm_medium=email&utm_campaign=leadership&position=1&partner=newsletter&campaign_date=10142026",
+     "summary": "‘This is the most unempathetic thing I’ve read in my life,’ one user posted in the comments under Federico Simionato’s announcement.",
+     "source": "Fast Company",
+     "section_slug": "leadership",
+     "published": "2026-10-13T16:06:15+00:00",
+     "image_url": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91622894-bending-spoons-airtable-layoffs.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "The New Rules of Brand Visibility in AI Search",
+     "link": "https://sloanreview.mit.edu/article/the-new-rules-of-brand-visibility-in-ai-search/",
+     "summary": "Alice Mollon/Ikon Images The Research The authors interviewed 15 senior marketing and digital leaders across industries, including financial services, software as a service, retail, media, higher education, and professional services, to understand how organizations are adapting SEO practices for AI-mediated discovery. Three themes emerged consistently: major blind spots in AI visibility metrics, organizational inertia in […]",
+     "source": "MIT Sloan Management Review",
+     "section_slug": "leadership",
+     "published": "2026-10-13T11:00:34+00:00",
+     "image_url": "https://sloanreview.mit.edu/wp-content/uploads/2026/09/VanOsch_GEO-1290x860-1.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "The unreliable witness",
+     "link": "https://seths.blog/2026/10/the-unreliable-witness/",
+     "summary": "It might be us. Even when there are photos, videos or tape recordings, people find that they can’t agree on what happened. Our vivid recollections can be vivid, but they might not be accurate. What would happen if, for a moment, we imagined that our version of what happened might not be the only one?",
+     "source": "Seth Godin",
+     "section_slug": "leadership",
+     "published": "2026-10-13T09:03:00+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "Will the chief AI officer role survive?",
+     "link": "https://www.fastcompany.com/91619035/will-the-chief-ai-officer-role-survive?utm_source=postup&utm_medium=email&utm_campaign=leadership&position=2&partner=newsletter&campaign_date=10142026",
+     "summary": "Right now chief AI officer is one of the most important hires. But how much longevity does the position have?",
+     "source": "Fast Company",
+     "section_slug": "leadership",
+     "published": "2026-10-13T05:00:00+00:00",
+     "image_url": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91619035-chief-ai-officer.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "When AI runs the company, what exactly is leadership for?",
+     "link": "https://www.fastcompany.com/91619005/when-ai-runs-company-what-exactly-leadership?utm_source=postup&utm_medium=email&utm_campaign=leadership&position=3&partner=newsletter&campaign_date=10142026",
+     "summary": "Leaders will need to ask not just whether a process is working, but also what a given system is learning to do.",
+     "source": "Fast Company",
+     "section_slug": "leadership",
+     "published": "2026-10-12T15:30:00+00:00",
+     "image_url": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91619005-ai-vs-leadership.jpg",
+     "also_covered_by": []
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "name": "Fiber & Telecom",
+   "slug": "fiber-telecom",
+   "articles": [
+    {
+     "title": "Verizon CTO: 6G needs a breakthrough for AI uplink demand",
+     "link": "https://www.lightreading.com/6g/verizon-cto-6g-needs-a-breakthrough-for-ai-uplink-demand",
+     "summary": "Verizon CTO Yago Tenorio says industry is 'missing a breakthrough' in 6G for uplink capacity as future AI applications change network traffic patterns.",
+     "source": "Light Reading",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-14T10:00:00+00:00",
+     "image_url": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt8a4eef8686ebb885/68d29fa042ae2225eb9e98f1/Yago_Tenorio_Verizon_CTO.png?width=720&quality=80&disable=upscale",
+     "also_covered_by": []
+    },
+    {
+     "title": "Japan goes all-in to fortify subsea cable infrastructure",
+     "link": "https://www.lightreading.com/cable-technology/japan-goes-all-in-to-fortify-subsea-cable-infrastructure",
+     "summary": "Japan is pursuing two parallel initiatives to secure its submarine cables: diversifying routes and subsidizing the purchase of new cable-laying vessels.",
+     "source": "Light Reading",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-14T08:57:56+00:00",
+     "image_url": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltd56e1f10f0669a37/6582bc00ce5b58040a502986/W5EK07.jpg?width=720&quality=80&disable=upscale",
+     "also_covered_by": []
+    },
+    {
+     "title": "Musk, genius or lunatic, has no mobile answer in space or on land",
+     "link": "https://www.lightreading.com/satellite/musk-genius-or-lunatic-has-no-mobile-answer-in-space-or-on-land",
+     "summary": "Starlink Mobile's 800MHz acquisition won't much help Elon Musk's satellite service and his terrestrial challenges are still immense.",
+     "source": "Light Reading",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-14T07:30:00+00:00",
+     "image_url": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltc1b0f035f19f2b00/6a832684f75dbf0de5ff1d73/RM_GettyImages-2273245544_Elong_Musk_RIGHTS_MANAGED_IMAGE.jpg?width=720&quality=80&disable=upscale",
+     "also_covered_by": []
+    },
+    {
+     "title": "Telstra half-day outage cost economy at least $596M – report",
+     "link": "https://www.lightreading.com/security/telstra-half-day-outage-cost-economy-at-least-596m-report",
+     "summary": "Last year's outage at Australia's Telstra came at enormous cost, with company bosses facing disgruntled shareholders.",
+     "source": "Light Reading",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-14T05:00:00+00:00",
+     "image_url": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt15bfa48765a52bbd/650c888d06142a0d4a437487/Telstra_store_in_Melbourne_Australia.jpeg?width=720&quality=80&disable=upscale",
+     "also_covered_by": []
+    },
+    {
+     "title": "Federal judge intervenes to stop deal involving Cable One",
+     "link": "https://bbcmag.com/federal-judge-intervenes-to-stop-deal-involving-cable-one/",
+     "summary": "A federal judge on Friday blocked the finalization of Cable One's deal to acquire the remaining stake of Mega Broadband.",
+     "source": "Broadband Communities",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-14T00:35:13+00:00",
+     "image_url": "https://bbcmag.com/wp-content/uploads/2026/10/baqh53vqutc-768x512.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "IMF Raises its Forecast for World Growth this Year",
+     "link": "https://broadbandbreakfast.com/imf-raises-its-forecast-for-world-growth-this-year/",
+     "summary": "Mounting debt, energy price shocks and the AI boom pose growing risks to financial stability",
+     "source": "Broadband Breakfast",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-14T00:20:00+00:00",
+     "image_url": "https://storage.ghost.io/c/29/97/29976d9d-89ea-4c77-8c0b-0e8a0eafed35/content/images/2026/10/AP26282263941034-1.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "5G Home Internet Competition Linked To Lower Cable Prices, CTIA Study Says",
+     "link": "https://broadbandbreakfast.com/5g-home-internet-competition-linked-to-lower-cable-prices-ctia-study-says/",
+     "summary": "Competition from 5G is the driver, wireless association says",
+     "source": "Broadband Breakfast",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-13T23:54:30+00:00",
+     "image_url": "https://storage.ghost.io/c/29/97/29976d9d-89ea-4c77-8c0b-0e8a0eafed35/content/images/2026/10/misha-feshchak-syCXK9WndqQ-unsplash-1-1-1.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Cisco and Nvidia develop new pluggable optic module for AI data centers",
+     "link": "https://www.fierce-network.com/broadband/cisco-and-nvidia-develop-new-pluggable-optic-module-ai-data-centers",
+     "summary": "Cisco has gotten feedback from its customers that what they really want is something that's like the old thing, but in the next generation.",
+     "source": "Fierce Network",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-13T22:57:00+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "Drone Light Show Industry Urges FCC Not to Classify Its Equipment as ‘Military-Grade’",
+     "link": "https://broadbandbreakfast.com/drone-light-show-industry-urges-fcc-not-to-classify-its-equipment-as-military-grade/",
+     "summary": "Manufacturers warned that a rapid shift to U.S.-made equipment could reduce safety because domestic suppliers remain limited.",
+     "source": "Broadband Breakfast",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-13T22:35:12+00:00",
+     "image_url": "https://storage.ghost.io/c/29/97/29976d9d-89ea-4c77-8c0b-0e8a0eafed35/content/images/2026/10/jared-brashier-duNHkmSkW6M-unsplash-1.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "AT&T Selling Its Wireless Company in Mexico for $2 Billion",
+     "link": "https://broadbandbreakfast.com/at-t-selling-its-wireless-company-in-mexico-for-2-billion/",
+     "summary": "The deal is expected to close in the first quarter of 2027",
+     "source": "Broadband Breakfast",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-13T21:33:07+00:00",
+     "image_url": "https://storage.ghost.io/c/29/97/29976d9d-89ea-4c77-8c0b-0e8a0eafed35/content/images/2026/10/AP19210805667915-1.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Starlink Critical for Rural Connectivity in Natural Disasters",
+     "link": "https://broadbandbreakfast.com/starlink-critical-for-rural-connectivity-in-natural-disasters/",
+     "summary": "Starlink restored critical internet access for medial staff following Hurricane Helene.",
+     "source": "Broadband Breakfast",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-13T21:06:19+00:00",
+     "image_url": "https://storage.ghost.io/c/29/97/29976d9d-89ea-4c77-8c0b-0e8a0eafed35/content/images/2026/10/Screenshot-2026-10-13-at-4.07.28---PM.png",
+     "also_covered_by": []
+    },
+    {
+     "title": "AT&T strikes deal to sell AT&T Mexico for $2B in cash",
+     "link": "https://www.lightreading.com/5g/at-t-strikes-deal-to-sell-at-t-mexico-for-2b-in-cash",
+     "summary": "AT&T has agreed to sell AT&T Mexico to Grupo Televisa and Fintech Holdings amid greater focus on its 5G and fiber networks and services in the US. #pressrelease",
+     "source": "Light Reading",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-13T20:40:53+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "name": "Video Games",
+   "slug": "video-games",
+   "articles": [
+    {
+     "title": "Ubisoft are making layoffs at Assassin's Creed Black Flag Resynced studio Ubisoft Singapore while closing Trials creators Redlynx, according to report",
+     "link": "https://www.rockpapershotgun.com/ubisoft-are-making-layoffs-at-assassins-creed-black-flag-resynced-studio-ubisoft-singapore-while-closing-trials-creators-redlynx-according-to-report",
+     "summary": "Ubisoft are planning to shut down RedLynx, creators of the side-scrolling Trials arcade racing games, according to a report, while laying off staff at Assassin's Creed Black Flag Resynched studio Ubisoft Singapore. Read more",
+     "source": "Rock Paper Shotgun",
+     "section_slug": "video-games",
+     "published": "2026-10-14T10:43:55+00:00",
+     "image_url": "https://assetsio.gnwcdn.com/black-flag-gold-outfit.png?width=690&quality=85&format=jpg&auto=webp",
+     "also_covered_by": [
+      "IGN"
+     ]
+    },
+    {
+     "title": "GTA 6 was originally Project Americas and covered \"big swaths\" of country's north and south, Rockstar reveals, in interview tackling crunch, delays, and leaks",
+     "link": "https://www.eurogamer.net/gta-6-project-americas-rockstar-crunch-delays-leaks",
+     "summary": "Rockstar Games has revealed the original codename for Grand Theft Auto 6 was Project Americas, and that its intention was for the game to cover large areas of land in both the north of the country and the south. Read more",
+     "source": "Eurogamer",
+     "section_slug": "video-games",
+     "published": "2026-10-14T11:39:03+00:00",
+     "image_url": "https://assetsio.gnwcdn.com/Jason_and_Lucia_11.13lmeyci.i-yw.jpg?width=690&quality=85&format=jpg&auto=webp",
+     "also_covered_by": []
+    },
+    {
+     "title": "With the Steam Frame becoming Valve's new favourite VR child, they're selling off their last Index headset stock",
+     "link": "https://www.rockpapershotgun.com/with-the-steam-frame-becoming-valves-new-favourite-vr-child-theyre-selling-off-their-last-index-headset-stock",
+     "summary": "Valve have officially discontinued the Valve Index VR kit, launching a 20%-off sale on its headset and controllers to get rid of any lingering stock. This was arguably an inevitable end, given the newer, more multitalented Steam Frame launched last month, with the Frame's memory-shortage-induced price hike failing to discourage enough orders to the extent that its waiting list now…",
+     "source": "Rock Paper Shotgun",
+     "section_slug": "video-games",
+     "published": "2026-10-14T11:20:34+00:00",
+     "image_url": "https://assetsio.gnwcdn.com/half-life-alyx-valve-index.jpg?width=690&quality=85&format=jpg&auto=webp",
+     "also_covered_by": []
+    },
+    {
+     "title": "10 Years Ago, PlayStation Almost Changed Gaming Forever",
+     "link": "https://www.polygon.com/playstation-vr-10-year-retrospective/",
+     "summary": "This week marks the 10-year anniversary of the PlayStation VR, a headset which nearly made the case for VR gaming on consoles.",
+     "source": "Polygon",
+     "section_slug": "video-games",
+     "published": "2026-10-14T11:01:15+00:00",
+     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/playstation-worlds-vr.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Destiny 1 project, which aims to port the game to PC, seemingly gets a nod from Bungie boss",
+     "link": "https://www.eurogamer.net/destiny-1-project-golden-age-pc-revival-bungie-nod",
+     "summary": "The original Destiny never made it to PC, but the shooter-MMO may not stay locked to PS4 and Xbox One for much longer. Some crafty modders have been working to get the game running on PC, and their efforts recently caught the eye of Bungie, which surprisingly didn't result in a take-down - not yet, at least. Read more",
+     "source": "Eurogamer",
+     "section_slug": "video-games",
+     "published": "2026-10-14T10:36:37+00:00",
+     "image_url": "https://assetsio.gnwcdn.com/destiny-1-trials-screen-1.jpg?width=690&quality=85&format=jpg&auto=webp",
+     "also_covered_by": []
+    },
+    {
+     "title": "20 Years Ago, Lord of the Rings Paved the Way for New Zealand's Weirdest Zombie Movie",
+     "link": "https://www.polygon.com/the-lord-of-the-rings-black-sheep/",
+     "summary": "Without The Lord of the Rings, we would never have gotten Zealand's wackiest horror movie, 'Black Sheep'.",
+     "source": "Polygon",
+     "section_slug": "video-games",
+     "published": "2026-10-14T10:00:15+00:00",
+     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/elijah-wood-the-lord-of-the-rings.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "\"My idea of a Netflix for games doesn’t work\": Garry's Mod creator says struggling spiritual successor S&box will go free to play as part of major rethink",
+     "link": "https://www.rockpapershotgun.com/my-idea-of-a-netflix-for-games-doesnt-work-garrys-mod-creator-says-struggling-spiritual-successor-sbox-will-go-free-to-play-as-part-of-major-rethink",
+     "summary": "Earlier this year, Garry's Mod and Rust developers Facepunch Studios released S&box , a mix of open source game development platform/spiritual successor to their Valve prop-filled physics sandbox. It's not fared well, only earning mixed reviews and being stuffed with low quality AI generated games early doors. Now, Facepunch founder Garry Newman has announced plans for a major overhaul that'll…",
+     "source": "Rock Paper Shotgun",
+     "section_slug": "video-games",
+     "published": "2026-10-14T10:00:00+00:00",
+     "image_url": "https://assetsio.gnwcdn.com/s%26box-going-free-to-play-garrys-mod-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+     "also_covered_by": []
+    },
+    {
+     "title": "\"You don't listen to the loudest people in the room\" - World of Warcraft: Forever boss discusses how to approach a deluge of feedback",
+     "link": "https://www.eurogamer.net/world-of-warcraft-forever-feedback-blizzard-listening",
+     "summary": "World of Warcraft executive producer Holly Longdale has spoken at PAX Australia ahead of World of Warcraft: Forever's imminent release. Of note were her comments on the sheer popularity of the beta and how the team is handling the waves of feedback from early players. Read more",
+     "source": "Eurogamer",
+     "section_slug": "video-games",
+     "published": "2026-10-14T09:59:22+00:00",
+     "image_url": "https://assetsio.gnwcdn.com/world-of-warcraft-forever-camp.jpg?width=690&quality=85&format=jpg&auto=webp",
+     "also_covered_by": []
+    },
+    {
+     "title": "Former game-seller Zavvi enters administration again and \"is unable to fulfil any outstanding orders or pre-orders\"",
+     "link": "https://www.eurogamer.net/zavvi-administration-2026-orders",
+     "summary": "Former game-seller Zavvi could be about to close for good; the company announced it has entered administration and that it has ceased trading while the insolvency process is resolved. Read more",
+     "source": "Eurogamer",
+     "section_slug": "video-games",
+     "published": "2026-10-14T09:54:26+00:00",
+     "image_url": "https://assetsio.gnwcdn.com/zavvi.jpg?width=690&quality=85&format=jpg&auto=webp",
+     "also_covered_by": []
+    },
+    {
+     "title": "The Witcher 3 Remastered Switch 2 Patch Is Officially 'On the Way'",
+     "link": "https://www.polygon.com/the-witcher-3-remastered-nintendo-switch-2-patch-update/",
+     "summary": "CD Projekt Red just gave an important update to Switch 2 players waiting for their The Witcher Remastered patch.",
+     "source": "Polygon",
+     "section_slug": "video-games",
+     "published": "2026-10-14T09:48:30+00:00",
+     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/witcher-3-endings-guide-geralt-1.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Ubisoft Cuts 70 Staff From Skull and Bones Dev, Shuts Down Trials Studio RedLynx",
+     "link": "https://www.ign.com/articles/ubisoft-cuts-70-staff-from-skull-and-bones-dev-shuts-down-trials-studio-redlynx",
+     "summary": "The cuts and studio shutdowns continue at Ubisoft, this time with layoffs hitting the developer of Skull and Bones and the closure of Trials maker RedLynx.",
+     "source": "IGN",
+     "section_slug": "video-games",
+     "published": "2026-10-14T09:40:47+00:00",
+     "image_url": "https://assets-prd.ignimgs.com/2026/10/14/skull-1791970800085.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Netflix's One Piece Season 4 Could Be Coming Much Sooner than Expected",
+     "link": "https://www.polygon.com/netflixs-one-piece-season-4-release-2027/",
+     "summary": "New information from the WGA website teases that season 4 of One Piece is confirmed and could be coming very soon.",
+     "source": "Polygon",
+     "section_slug": "video-games",
+     "published": "2026-10-14T09:29:36+00:00",
+     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24884910/ONE_PIECE_n_S1_E2_00_49_34_22R.jpg",
+     "also_covered_by": []
+    }
+   ]
+  }
+ ],
+ "ticker": [
+  {
+   "title": "Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting",
+   "link": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
+   "summary": "Repairable, ethical phone brand Fairphone has released its second pair of earbuds. The Fairbuds 2 are just as repairable as the first generation, but deliver improved audio and almost twice the battery life. The Fairbuds 2 are out now in the UK and Europe from £99 / €119, and a US launch at $119 will […]",
+   "source": "The Verge",
+   "section_slug": "technology",
+   "published": "2026-10-14T11:00:00+00:00",
+   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/fairphone-fairbuds-2-5.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "also_covered_by": []
+  },
+  {
+   "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+   "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+   "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+   "source": "TechCrunch",
+   "section_slug": "technology",
+   "published": "2026-10-14T11:00:00+00:00",
+   "image_url": null,
+   "also_covered_by": []
+  },
+  {
+   "title": "Apple’s frenetic HomeView video showed the one use-case for this device",
+   "link": "https://9to5mac.com/2026/10/14/apples-frenetic-homeview-video-showed-the-one-use-case-for-this-device/",
+   "summary": "The launch video Apple created to show off the long-awaited HomeView product couldn’t have been more different from its usual fare. While just watching it gave me a feeling of anxiety, I suspect it perfectly encapsulates the one use-case for this device … more…",
+   "source": "9to5Mac",
+   "section_slug": "apple",
+   "published": "2026-10-14T11:36:08+00:00",
+   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apples-HomeView-video-showed-the-one-use-case-for-this-device.jpg?quality=82&strip=all&w=1600",
+   "also_covered_by": []
+  },
+  {
+   "title": "Precision Finding on the new Siri Remote comes with an unexpected catch",
+   "link": "https://appleinsider.com/articles/26/10/14/precision-finding-on-the-new-siri-remote-comes-with-an-unexpected-catch?utm_source=rss",
+   "summary": "Apple's new Siri Remote adds Precision Finding, but the feature won't work with iPhone 15 or iPhone 16 models, even though they support advanced Ultra Wideband tracking. iPhone 16 Pro Max Introduced alongside the fourth-generation Apple TV , the updated remote adds more precise location guidance through Find My and a built-in speaker that can play a sound when the…",
+   "source": "AppleInsider",
+   "section_slug": "apple",
+   "published": "2026-10-14T11:19:48+00:00",
+   "image_url": "https://media.appleinsider.com/gallery/69352-146234-Design-back-16-Pro-Max-xl.jpg",
+   "also_covered_by": []
+  },
+  {
+   "title": "Police investigate racial abuse of Swans' Eom claim",
+   "link": "https://sports.yahoo.com/articles/police-investigate-racial-abuse-swans-114300101.html",
+   "summary": "Swansea City boss Vitor Matos says South Korean winger Ji-sung Eom was targeted by racist abuse at Millwall on Tuesday.",
+   "source": "Yahoo Sports",
+   "section_slug": "sports",
+   "published": "2026-10-14T11:43:00+00:00",
+   "image_url": "https://media.zenfs.com/en/bbc_us_articles_995/90df08b406b8390febe403674061aaeb.jpg",
+   "also_covered_by": []
+  },
+  {
+   "title": "Chase Brown Faces Reduced Role In Bengals Backfield",
+   "link": "https://sports.yahoo.com/articles/chase-brown-faces-reduced-role-114000518.html",
+   "summary": "The Bengals are the only NFL team without a 14-yard run this year. Discover why Samaje Perine's recent success might shrink Chase Brown's workload.",
+   "source": "Yahoo Sports",
+   "section_slug": "sports",
+   "published": "2026-10-14T11:40:00+00:00",
+   "image_url": "https://media.zenfs.com/en/gameday_times_324/00f54923cca318d2fb3baf9a154bd810.jpg",
+   "also_covered_by": []
+  },
+  {
+   "title": "Thanksgiving week sales on running gear",
+   "link": "https://runningmagazine.ca/buyers-guide/thanksgiving-week-sales-on-running-gear/",
+   "summary": "Top fall deals to upgrade your running wardrobe",
+   "source": "Canadian Running",
+   "section_slug": "endurance",
+   "published": "2026-10-14T00:14:46+00:00",
+   "image_url": null,
+   "also_covered_by": []
+  },
+  {
+   "title": "I Counted Gear at the 2026 Ironman World Championship. This is What I Saw.",
+   "link": "https://www.triathlete.com/gear/bike/expert-takeaways-from-the-2026-ironman-world-championship-bike-count/",
+   "summary": "There’s more than meets the eye when looking at a decade’s worth of Kona bike count data. As an industry insider, here’s what I’ve witnessed since I first began in 2006. Read the full article at I Counted Gear at the 2026 Ironman World Championship. This is What I Saw. on Triathlete .",
+   "source": "Triathlete",
+   "section_slug": "endurance",
+   "published": "2026-10-13T21:28:18+00:00",
+   "image_url": "https://cdn.triathlete.com/wp-content/uploads/2026/10/Kona-bike-count-facts-and-figures.jpg?width=1200",
+   "also_covered_by": []
+  },
+  {
+   "title": "Things people don’t say",
+   "link": "https://seths.blog/2026/10/things-people-dont-say/",
+   "summary": "Marketers and politicians too. We don’t say them because it’s assumed. And because we’re afraid. “I might be wrong.” “I’m just guessing” “This might be selfishly motivated.” “It could be that I’m hallucinating.” “I heard this somewhere but I don’t know firsthand that it’s true.” “I know I sound certain, but I’m not.” When an […]",
+   "source": "Seth Godin",
+   "section_slug": "leadership",
+   "published": "2026-10-14T09:03:00+00:00",
+   "image_url": null,
+   "also_covered_by": []
+  },
+  {
+   "title": "Bending Spoons product lead sparks fury with X post on Airtable layoffs",
+   "link": "https://www.fastcompany.com/91622894/bending-spoons-product-lead-sparks-fury-with-x-post-on-airtable-layoffs?utm_source=postup&utm_medium=email&utm_campaign=leadership&position=1&partner=newsletter&campaign_date=10142026",
+   "summary": "‘This is the most unempathetic thing I’ve read in my life,’ one user posted in the comments under Federico Simionato’s announcement.",
+   "source": "Fast Company",
+   "section_slug": "leadership",
+   "published": "2026-10-13T16:06:15+00:00",
+   "image_url": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91622894-bending-spoons-airtable-layoffs.jpg",
+   "also_covered_by": []
+  },
+  {
+   "title": "Japan goes all-in to fortify subsea cable infrastructure",
+   "link": "https://www.lightreading.com/cable-technology/japan-goes-all-in-to-fortify-subsea-cable-infrastructure",
+   "summary": "Japan is pursuing two parallel initiatives to secure its submarine cables: diversifying routes and subsidizing the purchase of new cable-laying vessels.",
+   "source": "Light Reading",
+   "section_slug": "fiber-telecom",
+   "published": "2026-10-14T08:57:56+00:00",
+   "image_url": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltd56e1f10f0669a37/6582bc00ce5b58040a502986/W5EK07.jpg?width=720&quality=80&disable=upscale",
+   "also_covered_by": []
+  },
+  {
+   "title": "Musk, genius or lunatic, has no mobile answer in space or on land",
+   "link": "https://www.lightreading.com/satellite/musk-genius-or-lunatic-has-no-mobile-answer-in-space-or-on-land",
+   "summary": "Starlink Mobile's 800MHz acquisition won't much help Elon Musk's satellite service and his terrestrial challenges are still immense.",
+   "source": "Light Reading",
+   "section_slug": "fiber-telecom",
+   "published": "2026-10-14T07:30:00+00:00",
+   "image_url": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltc1b0f035f19f2b00/6a832684f75dbf0de5ff1d73/RM_GettyImages-2273245544_Elong_Musk_RIGHTS_MANAGED_IMAGE.jpg?width=720&quality=80&disable=upscale",
+   "also_covered_by": []
+  },
+  {
+   "title": "GTA 6 was originally Project Americas and covered \"big swaths\" of country's north and south, Rockstar reveals, in interview tackling crunch, delays, and leaks",
+   "link": "https://www.eurogamer.net/gta-6-project-americas-rockstar-crunch-delays-leaks",
+   "summary": "Rockstar Games has revealed the original codename for Grand Theft Auto 6 was Project Americas, and that its intention was for the game to cover large areas of land in both the north of the country and the south. Read more",
+   "source": "Eurogamer",
+   "section_slug": "video-games",
+   "published": "2026-10-14T11:39:03+00:00",
+   "image_url": "https://assetsio.gnwcdn.com/Jason_and_Lucia_11.13lmeyci.i-yw.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "also_covered_by": []
+  },
+  {
+   "title": "With the Steam Frame becoming Valve's new favourite VR child, they're selling off their last Index headset stock",
+   "link": "https://www.rockpapershotgun.com/with-the-steam-frame-becoming-valves-new-favourite-vr-child-theyre-selling-off-their-last-index-headset-stock",
+   "summary": "Valve have officially discontinued the Valve Index VR kit, launching a 20%-off sale on its headset and controllers to get rid of any lingering stock. This was arguably an inevitable end, given the newer, more multitalented Steam Frame launched last month, with the Frame's memory-shortage-induced price hike failing to discourage enough orders to the extent that its waiting list now…",
+   "source": "Rock Paper Shotgun",
+   "section_slug": "video-games",
+   "published": "2026-10-14T11:20:34+00:00",
+   "image_url": "https://assetsio.gnwcdn.com/half-life-alyx-valve-index.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "also_covered_by": []
+  }
+ ],
+ "quote": {
+  "text": "Failure is not fatal, but failure to change might be.",
+  "author": "John Wooden"
+ },
+ "weather": {
+  "place": "Fort Wayne",
+  "high_f": 68,
+  "low_f": 59,
+  "label": "Drizzle",
+  "icon": "rain"
+ }
+}
