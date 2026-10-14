@@ -1,0 +1,86 @@
+# Quote of the day: one per line, "quote — author". Lines starting with # are ignored.
+The best way to predict the future is to invent it. — Alan Kay
+Efficiency is doing things right; effectiveness is doing the right things. — Peter Drucker
+There is nothing so useless as doing efficiently that which should not be done at all. — Peter Drucker
+Plans are worthless, but planning is everything. — Dwight D. Eisenhower
+Leadership is the art of getting someone else to do something you want done because he wants to do it. — Dwight D. Eisenhower
+A leader is best when people barely know he exists. — Lao Tzu
+The journey of a thousand miles begins with a single step. — Lao Tzu
+Well done is better than well said. — Benjamin Franklin
+Lost time is never found again. — Benjamin Franklin
+We are what we repeatedly do. Excellence, then, is not an act, but a habit. — Will Durant
+The only way to do great work is to love what you do. — Steve Jobs
+Real artists ship. — Steve Jobs
+Design is not just what it looks like and feels like. Design is how it works. — Steve Jobs
+Simplicity is prerequisite for reliability. — Edsger W. Dijkstra
+Premature optimization is the root of all evil. — Donald Knuth
+Talk is cheap. Show me the code. — Linus Torvalds
+Any sufficiently advanced technology is indistinguishable from magic. — Arthur C. Clarke
+The future is already here — it's just not very evenly distributed. — William Gibson
+The most dangerous phrase in the language is "We've always done it this way." — Grace Hopper
+A ship in port is safe, but that's not what ships are built for. — Grace Hopper
+It's easier to ask forgiveness than it is to get permission. — Grace Hopper
+Before anything else, preparation is the key to success. — Alexander Graham Bell
+Mr. Watson, come here, I want to see you. — Alexander Graham Bell
+Hard work beats talent when talent doesn't work hard. — Tim Notke
+You miss 100% of the shots you don't take. — Wayne Gretzky
+I skate to where the puck is going to be, not where it has been. — Wayne Gretzky
+Champions keep playing until they get it right. — Billie Jean King
+It's not whether you get knocked down, it's whether you get up. — Vince Lombardi
+Perfection is not attainable, but if we chase perfection we can catch excellence. — Vince Lombardi
+Make each day your masterpiece. — John Wooden
+Be quick, but don't hurry. — John Wooden
+Don't let what you cannot do interfere with what you can do. — John Wooden
+Failure is not fatal, but failure to change might be. — John Wooden
+Some people want it to happen, some wish it would happen, others make it happen. — Michael Jordan
+Talent wins games, but teamwork and intelligence win championships. — Michael Jordan
+The strength of the team is each individual member. The strength of each member is the team. — Phil Jackson
+Sports do not build character. They reveal it. — Heywood Broun
+Discipline equals freedom. — Jocko Willink
+Run when you can, walk if you have to, crawl if you must; just never give up. — Dean Karnazes
+To give anything less than your best is to sacrifice the gift. — Steve Prefontaine
+No human is limited. — Eliud Kipchoge
+Only the disciplined ones in life are free. — Eliud Kipchoge
+It never gets easier, you just go faster. — Greg LeMond
+Ride as much or as little, or as long or as short as you feel. But ride. — Eddy Merckx
+The miracle isn't that I finished. The miracle is that I had the courage to start. — John Bingham
+Ask yourself: "Can I give more?" The answer is usually: "Yes." — Paul Tergat
+Age is no barrier. It's a limitation you put on your mind. — Jackie Joyner-Kersee
+If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward. — Martin Luther King Jr.
+Do what you can, with what you have, where you are. — Theodore Roosevelt
+Far and away the best prize that life offers is the chance to work hard at work worth doing. — Theodore Roosevelt
+The credit belongs to the man who is actually in the arena. — Theodore Roosevelt
+Leadership and learning are indispensable to each other. — John F. Kennedy
+To improve is to change; to be perfect is to change often. — Winston Churchill
+A good plan violently executed now is better than a perfect plan executed next week. — George S. Patton
+Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity. — George S. Patton
+If everyone is thinking alike, then somebody isn't thinking. — George S. Patton
+The function of leadership is to produce more leaders, not more followers. — Ralph Nader
+Leadership is not about being in charge. It's about taking care of those in your charge. — Simon Sinek
+People don't buy what you do; they buy why you do it. — Simon Sinek
+Clear is kind. Unclear is unkind. — Brené Brown
+Vulnerability is the birthplace of innovation, creativity and change. — Brené Brown
+You do not rise to the level of your goals. You fall to the level of your systems. — James Clear
+Every action you take is a vote for the type of person you wish to become. — James Clear
+What we fear doing most is usually what we most need to do. — Tim Ferriss
+We are stubborn on vision. We are flexible on details. — Jeff Bezos
+If you're not embarrassed by the first version of your product, you've launched too late. — Reid Hoffman
+Your most unhappy customers are your greatest source of learning. — Bill Gates
+Hire character. Train skill. — Peter Schutz
+Strive not to be a success, but rather to be of value. — Albert Einstein
+Genius is one percent inspiration and ninety-nine percent perspiration. — Thomas Edison
+Nothing in life is to be feared, it is only to be understood. — Marie Curie
+What you do makes a difference, and you have to decide what kind of difference you want to make. — Jane Goodall
+Waste no more time arguing what a good man should be. Be one. — Marcus Aurelius
+The impediment to action advances action. What stands in the way becomes the way. — Marcus Aurelius
+We suffer more often in imagination than in reality. — Seneca
+Luck is what happens when preparation meets opportunity. — Seneca
+First say to yourself what you would be; and then do what you have to do. — Epictetus
+He who has a why to live can bear almost any how. — Friedrich Nietzsche
+Slow is smooth, and smooth is fast. — Military saying
+Measure twice, cut once. — Proverb
+Fall seven times, stand up eight. — Japanese proverb
+The best time to plant a tree was 20 years ago. The second best time is now. — Chinese proverb
+If you want to go fast, go alone. If you want to go far, go together. — African proverb
+Smooth seas do not make skillful sailors. — African proverb
+It's dangerous to go alone! Take this. — The Legend of Zelda

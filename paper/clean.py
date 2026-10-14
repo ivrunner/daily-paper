@@ -22,6 +22,7 @@ IMAGE_EXTENSIONS = (".jpg", ".jpeg", ".png", ".webp", ".gif", ".avif")
 NOT_PHOTOS = ("feedburner.com", "gravatar.com", "doubleclick.net", "stats.wp.com", "pixel")
 FALLBACK_DATE_FORMATS = ("%b %d, %Y %I:%M%p",)  # "Oct 13, 2026 6:57pm" (Fierce Network, Eastern)
 _IMG_SRC = re.compile(r"""<img[^>]+src=["']([^"']+)["']""", re.I)
+_WORDPRESS_FOOTER = re.compile(r"\s*The post .*? appeared first on .*$", re.S)
 
 
 def strip_html(text: str | None) -> str:
@@ -108,7 +109,7 @@ def entry_to_article(entry, *, source: str, section_slug: str, fetched_at: datet
     summary_html = entry.get("summary") or ""
     if not summary_html and entry.get("content"):
         summary_html = entry["content"][0].get("value", "")
-    summary = truncate_words(strip_html(summary_html))
+    summary = truncate_words(_WORDPRESS_FOOTER.sub("", strip_html(summary_html)))
     if summary.lower() == title.lower():
         summary = ""
     return Article(

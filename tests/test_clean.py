@@ -82,3 +82,10 @@ def test_entry_to_article_from_real_feed():
 def test_entry_to_article_drops_summary_that_repeats_title():
     entry = {"title": "Same text", "link": "https://x.example/a", "summary": "<p>Same text</p>"}
     assert entry_to_article(entry, source="S", section_slug="tech", fetched_at=NOW).summary == ""
+
+
+def test_entry_to_article_strips_wordpress_appeared_first_footer():
+    entry = {"title": "Judge stops deal", "link": "https://x.example/a",
+             "summary": "<p>A judge blocked the deal.</p><p>The post <a href='#'>Judge stops deal</a> "
+                        "appeared first on <a href='#'>Broadband Communities</a>.</p>"}
+    assert entry_to_article(entry, source="S", section_slug="t", fetched_at=NOW).summary == "A judge blocked the deal."

@@ -1,0 +1,56 @@
+# The Daily: sections and sources.
+# Order here = section order and numbering in the paper.
+# slug: lowercase letters, numbers and dashes only. It becomes the page address.
+sections:
+  - name: Technology
+    slug: technology
+    feeds:
+      - {name: The Verge, url: "https://www.theverge.com/rss/index.xml"}
+      - {name: Ars Technica, url: "https://feeds.arstechnica.com/arstechnica/index"}
+      - {name: TechCrunch, url: "https://techcrunch.com/feed/"}
+
+  - name: Apple
+    slug: apple
+    feeds:
+      - {name: MacRumors, url: "https://feeds.macrumors.com/MacRumors-All"}
+      - {name: 9to5Mac, url: "https://9to5mac.com/feed/"}
+      - {name: AppleInsider, url: "https://appleinsider.com/rss/news/"}
+      - {name: Six Colors, url: "https://sixcolors.com/feed/"}
+
+  - name: Sports
+    slug: sports
+    feeds:
+      - {name: ESPN, url: "https://www.espn.com/espn/rss/news"}
+      - {name: CBS Sports, url: "https://www.cbssports.com/rss/headlines/"}
+      - {name: Yahoo Sports, url: "https://sports.yahoo.com/rss/"}
+
+  - name: Endurance
+    slug: endurance
+    feeds:
+      - {name: iRunFar, url: "https://www.irunfar.com/feed"}
+      - {name: DC Rainmaker, url: "https://www.dcrainmaker.com/feed"}
+      - {name: Triathlete, url: "https://www.triathlete.com/feed/"}
+      - {name: Canadian Running, url: "https://runningmagazine.ca/feed/"}
+
+  - name: Leadership
+    slug: leadership
+    feeds:
+      - {name: Fast Company, url: "https://www.fastcompany.com/section/leadership/rss"}
+      - {name: MIT Sloan Management Review, url: "https://sloanreview.mit.edu/feed/"}
+      - {name: Seth Godin, url: "https://seths.blog/feed/"}
+
+  - name: Fiber & Telecom
+    slug: fiber-telecom
+    feeds:
+      - {name: Broadband Breakfast, url: "https://broadbandbreakfast.com/feed/"}
+      - {name: Light Reading, url: "https://www.lightreading.com/rss.xml"}
+      - {name: Fierce Network, url: "https://feeds.feedburner.com/FierceTelecom"}
+      - {name: Broadband Communities, url: "https://www.bbcmag.com/feed/"}
+
+  - name: Video Games
+    slug: video-games
+    feeds:
+      - {name: Polygon, url: "https://www.polygon.com/rss/index.xml"}
+      - {name: IGN, url: "https://feeds.feedburner.com/ign/all"}
+      - {name: Eurogamer, url: "https://www.eurogamer.net/feed"}
+      - {name: Rock Paper Shotgun, url: "https://www.rockpapershotgun.com/feed"}
