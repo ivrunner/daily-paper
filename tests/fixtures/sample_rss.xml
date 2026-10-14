@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>Sample</title>
+  <item>
+    <title>Media content story</title>
+    <link>https://www.sample.example/media-story/?utm_source=rss&amp;id=7</link>
+    <pubDate>Tue, 13 Oct 2026 08:00:00 GMT</pubDate>
+    <description>&lt;p&gt;First &lt;b&gt;bold&lt;/b&gt; paragraph &amp;amp; more.&lt;/p&gt;</description>
+    <media:content url="https://img.sample.example/media.jpg" medium="image"/>
+  </item>
+  <item>
+    <title>Enclosure story</title>
+    <link>https://www.sample.example/enclosure-story</link>
+    <pubDate>Tue, 13 Oct 2026 07:00:00 GMT</pubDate>
+    <description>Plain summary.</description>
+    <enclosure url="https://img.sample.example/enclosure.png" type="image/png" length="1000"/>
+  </item>
+  <item>
+    <title>Inline image story</title>
+    <link>https://www.sample.example/inline-story</link>
+    <pubDate>Tue, 13 Oct 2026 06:00:00 GMT</pubDate>
+    <description>Short.</description>
+    <content:encoded><![CDATA[<p><img src="https://secure.gravatar.com/avatar/abc?s=96" /> by Author</p><p><img src="https://img.sample.example/inline.webp" alt=""/> Body text.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title>No link story</title>
+    <description>Has no link and must be dropped.</description>
+  </item>
+</channel>
+</rss>
