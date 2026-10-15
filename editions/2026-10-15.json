@@ -1,0 +1,1046 @@
+{
+ "date": "2026-10-15",
+ "built_at": "2026-10-15T08:38:21.186512-04:00",
+ "volume": 1,
+ "issue": 3,
+ "lead": {
+  "title": "Big Walk Is Skipping Xbox as Part of the Pro-Palestinian BDS Boycott",
+  "link": "https://www.polygon.com/big-walk-skipping-xbox-palestinian-bds-boycott/",
+  "summary": "Developer House House said it won't release the game on Xbox until Microsoft is removed as a priority target by BDS",
+  "source": "Polygon",
+  "section_slug": "video-games",
+  "published": "2026-10-15T10:51:35+00:00",
+  "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/big-walk-gesture-gif.gif",
+  "also_covered_by": [
+   "The Verge",
+   "Rock Paper Shotgun"
+  ]
+ },
+ "front": [
+  {
+   "title": "Ledger’s new hardware wallet is an Android phone without the phone",
+   "link": "https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android",
+   "summary": "Ledger has announced its latest crypto-centric hardware effort, the Android-based Atom, a device that resembles a phone but is instead designed to be used alongside one. It arrives at a tricky time for Ledger, which has been forced to cease sales of some of its hardware across southeast Asia following hardware tampering in its supply […]",
+   "source": "The Verge",
+   "section_slug": "technology",
+   "published": "2026-10-15T12:00:00+00:00",
+   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ledger-Atom-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "also_covered_by": []
+  },
+  {
+   "title": "Touchscreen MacBook Pro and more launching at Apple event on Oct 28",
+   "link": "https://9to5mac.com/2026/10/15/touchscreen-macbook-pro-and-more-launching-at-apple-event-on-oct-28/",
+   "summary": "We’ve long been awaiting the launch of the first touchscreen and OLED MacBook Pro, and a new report says that the official launch will take place at an Apple event on October 28. It says that Apple has begun sending invites to selected media representatives. The same event will include the OLED iPad mini as well as an M6 original…",
+   "source": "9to5Mac",
+   "section_slug": "apple",
+   "published": "2026-10-15T11:41:56+00:00",
+   "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macbook-ultra-pro-mockup.jpg?quality=82&strip=all&w=1600",
+   "also_covered_by": [
+    "AppleInsider"
+   ]
+  },
+  {
+   "title": "Week 6 Fantasy Football Quarterback Start 'Em, Sit 'Em: Bo Nix vs. Sam Darnold",
+   "link": "https://sports.yahoo.com/articles/week-6-fantasy-football-quarterback-122925303.html",
+   "summary": "Deciding between Sam Darnold and Bo Nix for Week 6? We break down the Thursday Night Football matchup, recent volume trends, and who deserves a spot in your fantasy lineup.",
+   "source": "Yahoo Sports",
+   "section_slug": "sports",
+   "published": "2026-10-15T12:29:25+00:00",
+   "image_url": "https://media.zenfs.com/en/fantasy_sports_on_si_football_456/39c94d5a008c68ad3ea72412588649fa.jpg",
+   "also_covered_by": [
+    "CBS Sports"
+   ]
+  },
+  {
+   "title": "What I Learned from Finishing a Triathlon When Everything Goes Wrong",
+   "link": "https://www.triathlete.com/culture/people/lessons-learned-from-finishing-a-triathlon-when-everything-goes-wrong/",
+   "summary": "I learned the true value of embracing failure thanks to unexpected kindness and everything going wrong on race day. Read the full article at What I Learned from Finishing a Triathlon When Everything Goes Wrong on Triathlete .",
+   "source": "Triathlete",
+   "section_slug": "endurance",
+   "published": "2026-10-15T12:20:46+00:00",
+   "image_url": "https://cdn.triathlete.com/wp-content/uploads/2026/10/mytri-anna-rea_featured.png?width=1200",
+   "also_covered_by": []
+  },
+  {
+   "title": "Why every leader needs radical accountability",
+   "link": "https://www.fastcompany.com/91623258/why-every-leader-needs-radical-accountability?utm_source=postup&utm_medium=email&utm_campaign=leadership&position=1&partner=newsletter&campaign_date=10152026",
+   "summary": "Something should discipline you outside of the office, to keep you showing up.",
+   "source": "Fast Company",
+   "section_slug": "leadership",
+   "published": "2026-10-15T12:00:00+00:00",
+   "image_url": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/1-47.png",
+   "also_covered_by": []
+  },
+  {
+   "title": "TP-Link pledges $1B US investment amid mounting government resistance",
+   "link": "https://www.lightreading.com/regulatory-politics/tp-link-pledges-1b-us-investment-amid-mounting-government-resistance",
+   "summary": "TP-Link's effort to obtain an FCC waiver for a pair of Wi-Fi 8 routers is being stymied by a handful of state-led lawsuits and static from 21 state AGs over cybersecurity concerns and the supplier's purported links to China.",
+   "source": "Light Reading",
+   "section_slug": "fiber-telecom",
+   "published": "2026-10-15T12:38:21.186512+00:00",
+   "image_url": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt38755e742f3e1cb9/64ff54c4a127aa6bf57a5cad/Money_printing_machine_printing_100_dollar_banknotes_3D_illustration.jpg?width=720&quality=80&disable=upscale",
+   "also_covered_by": []
+  }
+ ],
+ "sections": [
+  {
+   "number": 1,
+   "name": "Technology",
+   "slug": "technology",
+   "articles": [
+    {
+     "title": "Ledger’s new hardware wallet is an Android phone without the phone",
+     "link": "https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android",
+     "summary": "Ledger has announced its latest crypto-centric hardware effort, the Android-based Atom, a device that resembles a phone but is instead designed to be used alongside one. It arrives at a tricky time for Ledger, which has been forced to cease sales of some of its hardware across southeast Asia following hardware tampering in its supply […]",
+     "source": "The Verge",
+     "section_slug": "technology",
+     "published": "2026-10-15T12:00:00+00:00",
+     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Ledger-Atom-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+     "also_covered_by": []
+    },
+    {
+     "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+     "link": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
+     "summary": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them. First is the $74.99 Bee Frontier, an updated version of the original Bee device. And […]",
+     "source": "The Verge",
+     "section_slug": "technology",
+     "published": "2026-10-15T12:00:00+00:00",
+     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/BEE_FAMILY_02_1600x900.jpg?quality=90&strip=all&crop=0,0,100,100",
+     "also_covered_by": []
+    },
+    {
+     "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+     "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+     "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
+     "source": "TechCrunch",
+     "section_slug": "technology",
+     "published": "2026-10-15T12:00:00+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+     "link": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+     "summary": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China. Its AI companion can store literally everything you tell it on Chinese servers, where […]",
+     "source": "The Verge",
+     "section_slug": "technology",
+     "published": "2026-10-15T11:00:00+00:00",
+     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-004.jpg?quality=90&strip=all&crop=0,0,100,100",
+     "also_covered_by": []
+    },
+    {
+     "title": "Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel",
+     "link": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott",
+     "summary": "Big Walk's co-op multiplayer walking adventure has proved popular since launching in August, but Xbox players have been excluded from the fun - and now the game's creators have explained why. Developer House House said in a blog post that it decided not to release Big Walk on Xbox consoles in accordance with the Palestinian-led […]",
+     "source": "The Verge",
+     "section_slug": "technology",
+     "published": "2026-10-15T10:05:07+00:00",
+     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/BigWalk-GameplayOverview-1.png?quality=90&strip=all&crop=0,0,100,100",
+     "also_covered_by": []
+    },
+    {
+     "title": "Citizen Lab says governments are abusing online ads to hack people with ‘zero-click’ spyware",
+     "link": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
+     "summary": "The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads.",
+     "source": "TechCrunch",
+     "section_slug": "technology",
+     "published": "2026-10-15T10:00:00+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "Figma announces new features to define how agents work on its platform",
+     "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+     "summary": "Figma is also releasing its code layers feature in open beta.",
+     "source": "TechCrunch",
+     "section_slug": "technology",
+     "published": "2026-10-15T04:30:00+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+     "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+     "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
+     "source": "TechCrunch",
+     "section_slug": "technology",
+     "published": "2026-10-15T01:01:32+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+     "link": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+     "summary": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
+     "source": "TechCrunch",
+     "section_slug": "technology",
+     "published": "2026-10-15T00:49:31+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "McKinsey is making job applicants spar with a fake AI client",
+     "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+     "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work,\" the […]",
+     "source": "The Verge",
+     "section_slug": "technology",
+     "published": "2026-10-14T22:53:31+00:00",
+     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&strip=all&crop=0,0,100,100",
+     "also_covered_by": []
+    },
+    {
+     "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+     "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+     "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+     "source": "Ars Technica",
+     "section_slug": "technology",
+     "published": "2026-10-14T21:35:09+00:00",
+     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+     "link": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+     "summary": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
+     "source": "Ars Technica",
+     "section_slug": "technology",
+     "published": "2026-10-14T21:15:56+00:00",
+     "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/egslauncher-1152x648.png",
+     "also_covered_by": []
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "name": "Apple",
+   "slug": "apple",
+   "articles": [
+    {
+     "title": "Touchscreen MacBook Pro and more launching at Apple event on Oct 28",
+     "link": "https://9to5mac.com/2026/10/15/touchscreen-macbook-pro-and-more-launching-at-apple-event-on-oct-28/",
+     "summary": "We’ve long been awaiting the launch of the first touchscreen and OLED MacBook Pro, and a new report says that the official launch will take place at an Apple event on October 28. It says that Apple has begun sending invites to selected media representatives. The same event will include the OLED iPad mini as well as an M6 original…",
+     "source": "9to5Mac",
+     "section_slug": "apple",
+     "published": "2026-10-15T11:41:56+00:00",
+     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macbook-ultra-pro-mockup.jpg?quality=82&strip=all&w=1600",
+     "also_covered_by": [
+      "AppleInsider"
+     ]
+    },
+    {
+     "title": "Apple's Wall-Mounted HomeView Ships Without a Power Adapter",
+     "link": "https://www.macrumors.com/2026/10/15/wall-mounted-homeview-ships-without-power-adapter/",
+     "summary": "Apple's wall-mounted HomeView will ship without a power adapter, USB-C cable, or mount, requiring customers to purchase compatible accessories separately. In a support document posted on October 14, Apple outlined different power requirements for the two versions of its new smart home hub. The tabletop HomeView requires a USB-C power adapter rated for at least 30W, supporting an output of…",
+     "source": "MacRumors",
+     "section_slug": "apple",
+     "published": "2026-10-15T12:18:41+00:00",
+     "image_url": "https://images.macrumors.com/article-new/2026/10/homeview-wall-mount.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "iPhone Duo has uncompromised performance, same as iPhone 18 Pro",
+     "link": "https://appleinsider.com/articles/26/10/15/iphone-duo-has-uncompromised-performance-same-as-iphone-18-pro?utm_source=rss",
+     "summary": "If the first Geekbench 7 figures for the iPhone Duo are legit, the A20 Pro processor hasn't been slowed down by the foldable's design choices. Apple's iPhone Duo. It's not be a huge surprise that two iPhones with the same A20 Pro processor would show at least similar benchmark results. However, the processor is just part of the whole system…",
+     "source": "AppleInsider",
+     "section_slug": "apple",
+     "published": "2026-10-15T12:02:44+00:00",
+     "image_url": "https://media.appleinsider.com/gallery/69400-146330-iPhone-Dup-xl.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Rare Apple-1 With Steve Jobs Letter Sells for $1.15 Million",
+     "link": "https://www.macrumors.com/2026/10/15/rare-apple-1-with-steve-jobs-letter-sells/",
+     "summary": "The \"Hatfield\" Apple-1 has sold for $1,148,200 including the buyer's premium, setting a world auction record for a commercially sold Apple-1, according to Bonhams . Two bidders competed for 28 minutes before the October 14 auction closed, taking the working computer beyond its $500,000 to $800,000 estimate . The machine takes its name from original owner Fred Hatfield, who complained…",
+     "source": "MacRumors",
+     "section_slug": "apple",
+     "published": "2026-10-15T12:01:56+00:00",
+     "image_url": "https://images.macrumors.com/article-new/2026/10/apple-1-bonhams.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "MacPaw launches Eney, a proactive AI assistant for Mac and iPhone",
+     "link": "https://9to5mac.com/2026/10/15/macpaw-launches-eney-a-proactive-ai-assistant-for-mac-and-iphone/",
+     "summary": "Today marks a milestone for MacPaw, as the company is releasing Eney, a proactive AI assistant that works across your apps, files, and system to help you get things done, following a development process that began back in 2019. Here are the details. more…",
+     "source": "9to5Mac",
+     "section_slug": "apple",
+     "published": "2026-10-15T12:00:14+00:00",
+     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-macpaw.jpg?quality=82&strip=all&w=1600",
+     "also_covered_by": []
+    },
+    {
+     "title": "The ‘renewable’ iPhone Duo display layer may help buyers justify the price",
+     "link": "https://9to5mac.com/2026/10/15/the-renewable-iphone-duo-display-layer-may-help-buyers-justify-the-price/",
+     "summary": "The iPhone Duo starts at $1999 for the 256GB model and rises to an eye-watering $3199 for the 2TB version – but a “renewable” inner display layer may help buyers to justify spending so much money on a phone. Apple has addressed the biggest problem experienced with folding phones to date via a surprisingly affordable option … more…",
+     "source": "9to5Mac",
+     "section_slug": "apple",
+     "published": "2026-10-15T11:28:44+00:00",
+     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-apple-event-official-photo.jpg?quality=82&strip=all&w=1600",
+     "also_covered_by": []
+    },
+    {
+     "title": "Apple Now Inviting Media to October 28 'Launch Experience'",
+     "link": "https://www.macrumors.com/2026/10/15/apple-inviting-media-to-october-28-experience/",
+     "summary": "Apple has begun inviting selected members of the media to a product launch experience in Los Angeles on Wednesday, October 28, according to Bloomberg 's Mark Gurman . In a post on X, Gurman described the gathering as an \"all-day product launch experience\" for touchscreen MacBooks, a new iPad mini , and Macs equipped with M6 chips. Gurman previously reported…",
+     "source": "MacRumors",
+     "section_slug": "apple",
+     "published": "2026-10-15T11:13:33+00:00",
+     "image_url": "https://images.macrumors.com/article-new/2026/10/Black-Apple-Event-Logo.jpeg",
+     "also_covered_by": []
+    },
+    {
+     "title": "'Maximum Pleasure, guaranteed' gets second season",
+     "link": "https://appleinsider.com/articles/26/10/15/maximum-pleasure-guaranteed-gets-second-season?utm_source=rss",
+     "summary": "In the now-complete first season, \"Maximum Pleasure Guaranteed\" is a comedic thriller that follows newly divorced mom Paula (Tatiana Maslany). Convinced she witnessed a crime, Paula begins her own investigation while simultaneously struggling through a custody battle and an identity crisis. Continue Reading on AppleInsider | Discuss on our Forums",
+     "source": "AppleInsider",
+     "section_slug": "apple",
+     "published": "2026-10-15T11:10:28+00:00",
+     "image_url": "https://img.youtube.com/vi/_8KOzyMYgiw/maxresdefault.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Touch-screen MacBook Pro will be unveiled on October 28",
+     "link": "https://appleinsider.com/articles/26/10/15/touch-screen-macbook-pro-will-be-unveiled-on-october-28?utm_source=rss",
+     "summary": "Apple is reportedly preparing an October 28 launch for a series of iPad and Mac releases, ranging from the OLED touch-screen MacBook Pro to a new iPad mini. Apple's current MacBook Pro Following its unveiling of the HomeView on October 12, 2026 with briefings and videos rather than an event, Apple is now expected to do the same again. According…",
+     "source": "AppleInsider",
+     "section_slug": "apple",
+     "published": "2026-10-15T11:05:41+00:00",
+     "image_url": "https://media.appleinsider.com/gallery/68616-144631-66579-139653-M5-MacBook-Pro-display-xl-(1)-xl.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Apple-1 sets a new record at $1,148,200 after a rejected upgrade",
+     "link": "https://9to5mac.com/2026/10/15/apple-1-sets-a-new-record-at-1148200-after-a-rejected-upgrade/",
+     "summary": "An Apple-1 computer sold at auction has set a new record of $1,148,200. The same machine last sold in 2013 for $686,000. It comes complete with a letter which, thankfully, the original owner ignored … more…",
+     "source": "9to5Mac",
+     "section_slug": "apple",
+     "published": "2026-10-15T11:02:37+00:00",
+     "image_url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-1-sets-a-new-record-at-1148200-after-a-rejected-upgrade.jpeg?quality=82&strip=all&w=1600",
+     "also_covered_by": []
+    },
+    {
+     "title": "What you need to use HomePods for Mac system audio",
+     "link": "https://appleinsider.com/articles/26/10/15/latest-homepods-can-output-mac-system-audio-in-compatible-configurations?utm_source=rss",
+     "summary": "If your Mac has Wi-Fi 6E and you've got one of the most recent HomePod or HomePod mini models, everything, including notification sounds, can be routed through the smart speakers. Here's what you need. Some HomePod models can output Mac system audio Apple just revealed the HomePod mini 2 with an updated S10 chipset and a handful of new features…",
+     "source": "AppleInsider",
+     "section_slug": "apple",
+     "published": "2026-10-15T10:29:27+00:00",
+     "image_url": "https://media.appleinsider.com/gallery/69392-146324-HomePod-Second-Generation-black-xl.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "OpenAI swears it won't use the Apple trade secrets it seemingly admits it has",
+     "link": "https://appleinsider.com/articles/26/10/15/openai-swears-it-wont-use-the-apple-trade-secrets-it-seemingly-admits-it-has?utm_source=rss",
+     "summary": "After the judge said he was \"highly likely\" to grant Apple's injunction, OpenAI is trying to limit the damage by volunteering not to use proprietary information while the case continues. OpenAI has volunteered to not use any Apple trade secrets, while this case continues. In July 2026 , Apple sued OpenAI over alleged trade secret theft, and after mounting evidence…",
+     "source": "AppleInsider",
+     "section_slug": "apple",
+     "published": "2026-10-15T10:27:38+00:00",
+     "image_url": "https://photos5.appleinsider.com/gallery/54487-110037-openAI-xl.jpg",
+     "also_covered_by": []
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "name": "Sports",
+   "slug": "sports",
+   "articles": [
+    {
+     "title": "Week 6 Fantasy Football Quarterback Start 'Em, Sit 'Em: Bo Nix vs. Sam Darnold",
+     "link": "https://sports.yahoo.com/articles/week-6-fantasy-football-quarterback-122925303.html",
+     "summary": "Deciding between Sam Darnold and Bo Nix for Week 6? We break down the Thursday Night Football matchup, recent volume trends, and who deserves a spot in your fantasy lineup.",
+     "source": "Yahoo Sports",
+     "section_slug": "sports",
+     "published": "2026-10-15T12:29:25+00:00",
+     "image_url": "https://media.zenfs.com/en/fantasy_sports_on_si_football_456/39c94d5a008c68ad3ea72412588649fa.jpg",
+     "also_covered_by": [
+      "CBS Sports"
+     ]
+    },
+    {
+     "title": "Max Muncy gives blunt assessment of Dodgers' performance vs. Brewers in NLCS: 'We're playing like s***'",
+     "link": "https://sports.yahoo.com/mlb/article/max-muncy-gives-blunt-assessment-of-dodgers-performance-vs-brewers-in-nlcs-were-playing-like-s-123410078.html",
+     "summary": "Max Muncy had a simple explanation for the Dodgers' 3-0 deficit in the NLCS.",
+     "source": "Yahoo Sports",
+     "section_slug": "sports",
+     "published": "2026-10-15T12:34:10+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "MLB fans blast Dodgers supporters after Brewers’ Game 1 NLCS victory",
+     "link": "https://sports.yahoo.com/articles/mlb-fans-blast-dodgers-supporters-123000041.html",
+     "summary": "MLB fans are taking aim at Dodgers supporters after Milwaukee’s Game 1 NLCS victory sparked online backlash over Abner Uribe’s celebration. As Brewers fans celebrated a 2-1 win, rival supporters defended the reliever and criticized what they viewed as entitlement among some Dodgers fans.",
+     "source": "Yahoo Sports",
+     "section_slug": "sports",
+     "published": "2026-10-15T12:30:00+00:00",
+     "image_url": "https://media.zenfs.com/en/gameday_chatter_552/bdbbf314a70c4f162c1104b6fce34b70.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Alex de Minaur honestly rates Alexander Zverev’s level after losing to him at the Shanghai Masters",
+     "link": "https://sports.yahoo.com/articles/alex-minaur-honestly-rates-alexander-123000363.html",
+     "summary": "Alex de Minaur’s run at the Shanghai Masters is over, having been cut short at the quarter-final stage by Alexander Zverev. Admittedly, there was doubt...",
+     "source": "Yahoo Sports",
+     "section_slug": "sports",
+     "published": "2026-10-15T12:30:00+00:00",
+     "image_url": "https://media.zenfs.com/en/tennishead_808/18178f59b4a2062188c67bde06495390.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Dan Lanning describes differences with Oregon's offense after changes",
+     "link": "https://sports.yahoo.com/articles/dan-lanning-describes-differences-oregons-122728648.html",
+     "summary": "Oregon Ducks head coach Dan Lanning says he's spending more time with the offense amidst changes this week.",
+     "source": "Yahoo Sports",
+     "section_slug": "sports",
+     "published": "2026-10-15T12:27:28+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "NFL reduces suspension of Rams' Alaric Jackson for punching Bills' Bradley Chubb",
+     "link": "https://www.cbssports.com/nfl/news/rams-left-tackle-punches-bills-bradley-chubb-mnf/",
+     "summary": "Alaric Jackson hit the Bills' pass-rusher with an apparent sucker-punch following Buffalo's wild Monday night win",
+     "source": "CBS Sports",
+     "section_slug": "sports",
+     "published": "2026-10-15T12:26:25+00:00",
+     "image_url": "https://sportshub.cbsistatic.com/i/2026/10/13/a997c0f6-d13a-4607-b195-fd4589a6045d/chubb.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Rays vs. Guardians prediction, odds, time: 2026 ALCS Game 3 picks by proven model",
+     "link": "https://www.cbssports.com/betting/news/rays-guardians-prediction-odds-time-2026-mlb-playoff-alcs-game-3-picks/",
+     "summary": "SportsLine's model simulated Tampa Bay Rays vs. Cleveland Guardians in Game 3 of the ALCS 10,000 times, which will now place Thursday afternoon due to weather concerns",
+     "source": "CBS Sports",
+     "section_slug": "sports",
+     "published": "2026-10-15T12:10:34+00:00",
+     "image_url": "https://sportshub.cbsistatic.com/i/2026/03/27/dfa659aa-0c0b-40e0-81a3-3fcc8cd5a6db/chase-delauter-cleveland-guardians-imagn-images.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Week 6 NFL betting promos: Get over $3,000 in bonuses from top online betting apps, sportsbooks",
+     "link": "https://www.cbssports.com/betting/news/week-6-nfl-betting-promos-get-over-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
+     "summary": "Top Week 6 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+     "source": "CBS Sports",
+     "section_slug": "sports",
+     "published": "2026-10-15T12:07:24+00:00",
+     "image_url": "https://sportshub.cbsistatic.com/i/2026/02/07/0f39e28c-6f5f-41f6-ae6d-d113b569cde2/sam-darnold-seattle-seahawks-14.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "NFL Week 6 picks: Our experts face off on Seahawks at Broncos, Ravens at Browns and more",
+     "link": "https://www.cbssports.com/nfl/news/nfl-week-6-picks-experts-on-seahawks-broncos-ravens-browns/",
+     "summary": "CBS Sports writers Jordan Dajani and Jared Dubin predict Week 6's top games",
+     "source": "CBS Sports",
+     "section_slug": "sports",
+     "published": "2026-10-15T12:06:48+00:00",
+     "image_url": "https://sportshub.cbsistatic.com/i/2026/10/13/7403fce8-4ef9-44c8-be4d-70b3f411b7b3/sea.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "College football bets: Week 7 odds, parlays for favorites and underdogs include Ohio State vs. Indiana",
+     "link": "https://www.cbssports.com/betting/news/college-football-bets-week-7-odds-parlays-for-favorites-and-underdogs-include-ohio-state-vs-indiana/",
+     "summary": "SportsLine football expert Mike Tierney gives his best parlay bets for college football in Week 7",
+     "source": "CBS Sports",
+     "section_slug": "sports",
+     "published": "2026-10-15T12:00:58+00:00",
+     "image_url": "https://sportshub.cbsistatic.com/i/2026/10/14/8451524d-f821-45f5-bee4-96313672b746/jeremiah-smith-ohio-state-imagn-images.jpg",
+     "also_covered_by": []
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "name": "Endurance",
+   "slug": "endurance",
+   "articles": [
+    {
+     "title": "What I Learned from Finishing a Triathlon When Everything Goes Wrong",
+     "link": "https://www.triathlete.com/culture/people/lessons-learned-from-finishing-a-triathlon-when-everything-goes-wrong/",
+     "summary": "I learned the true value of embracing failure thanks to unexpected kindness and everything going wrong on race day. Read the full article at What I Learned from Finishing a Triathlon When Everything Goes Wrong on Triathlete .",
+     "source": "Triathlete",
+     "section_slug": "endurance",
+     "published": "2026-10-15T12:20:46+00:00",
+     "image_url": "https://cdn.triathlete.com/wp-content/uploads/2026/10/mytri-anna-rea_featured.png?width=1200",
+     "also_covered_by": []
+    },
+    {
+     "title": "The Best Tri Suits for Postpartum Bodies (That Actually Offer Support)",
+     "link": "https://www.triathlete.com/gear/best-tri-suits-for-postpartum-bodies/",
+     "summary": "A mom reviews triathlon suits based on comfort, nursing/pumping access, aesthetics, performance, and more. Read the full article at The Best Tri Suits for Postpartum Bodies (That Actually Offer Support) on Triathlete .",
+     "source": "Triathlete",
+     "section_slug": "endurance",
+     "published": "2026-10-15T12:00:09+00:00",
+     "image_url": "https://cdn.triathlete.com/wp-content/uploads/2026/09/The-Best-Tri-Suits-for-Postpartum-Bodies-scaled.jpg?width=1200",
+     "also_covered_by": []
+    },
+    {
+     "title": "Nike ACG Gear for Your Adventures in the Wild",
+     "link": "https://www.irunfar.com/nike-acg-gear-for-your-adventures-in-the-wild",
+     "summary": "",
+     "source": "iRunFar",
+     "section_slug": "endurance",
+     "published": "2026-10-15T10:00:21+00:00",
+     "image_url": "https://s3.amazonaws.com/www.irunfar.com/wp-content/uploads/2026/09/24124637/Jenn-Lichter-2026-Western-States-100-finish-line-feature.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "The M+ Number: Counting More Than Marathon Finishes",
+     "link": "https://www.irunfar.com/the-m-number-counting-more-than-marathon-finishes",
+     "summary": "",
+     "source": "iRunFar",
+     "section_slug": "endurance",
+     "published": "2026-10-15T09:59:15+00:00",
+     "image_url": "https://s3.amazonaws.com/www.irunfar.com/wp-content/uploads/2026/10/05144503/Paul-Schnell-m-plus-club-feature-600x338.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "What Really Happened When the Men and Women Raced Kona Together Again",
+     "link": "https://www.triathlete.com/culture/news/womens-perspective-on-return-to-mixed-gender-racing-in-kona/",
+     "summary": "As men and women reunited on the Big Island for the first time since 2019, the 2026 Ironman World Championship delivered racing drama alongside logistical lessons for the race organizer. Read the full article at What Really Happened When the Men and Women Raced Kona Together Again on Triathlete .",
+     "source": "Triathlete",
+     "section_slug": "endurance",
+     "published": "2026-10-14T22:07:19+00:00",
+     "image_url": "https://cdn.triathlete.com/wp-content/uploads/2026/10/212A5069.jpg?width=1200",
+     "also_covered_by": []
+    },
+    {
+     "title": "Olympic champion Sifan Hassan withdraws from TCS New York City Marathon",
+     "link": "https://runningmagazine.ca/the-scene/olympic-champion-sifan-hassan-withdraws-from-tcs-new-york-city-marathon/",
+     "summary": "After illness disrupted her training, the Dutch star scratched from her second straight race",
+     "source": "Canadian Running",
+     "section_slug": "endurance",
+     "published": "2026-10-14T20:31:54+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "Solveig Løvseth Shares How She Kept Going After Calamitous Kona Collapse",
+     "link": "https://www.triathlete.com/culture/news/solveig-lovseth-shares-how-she-kept-going-after-calamitous-kona-collapse/",
+     "summary": "Solveig Løvseth was less than five minutes away from defending her Ironman World Championship title when disaster struck. She spoke with us minutes after finishing the race in a remarkably good mood. Read the full article at Solveig Løvseth Shares How She Kept Going After Calamitous Kona Collapse on Triathlete .",
+     "source": "Triathlete",
+     "section_slug": "endurance",
+     "published": "2026-10-14T19:51:26+00:00",
+     "image_url": "https://cdn.triathlete.com/wp-content/uploads/2026/10/Solveig-Lovseth-Interview.png?width=1200",
+     "also_covered_by": []
+    },
+    {
+     "title": "Global stars headline TCS Toronto Waterfront Marathon",
+     "link": "https://runningmagazine.ca/sections/runs-races/global-stars-headline-tcs-toronto-waterfront-marathon/",
+     "summary": "The international elite field features defending champions, ambitious time goals and athletes with a soft spot for the Canadian race",
+     "source": "Canadian Running",
+     "section_slug": "endurance",
+     "published": "2026-10-14T19:37:07+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "Kona Mechanics’ View of the Ironman World Championship",
+     "link": "https://www.triathlete.com/culture/news/kona-mechanics-view-of-the-ironman-world-championship/",
+     "summary": "Tragic packing failures, fundamental misunderstandings about how gears work, abandoned carbon bling, and crying. Yes, crying. These are the things that Kona-based professional bike mechanics see on race week of the Ironman World Championship. Read the full article at Kona Mechanics’ View of the Ironman World Championship on Triathlete .",
+     "source": "Triathlete",
+     "section_slug": "endurance",
+     "published": "2026-10-14T17:56:25+00:00",
+     "image_url": "https://cdn.triathlete.com/wp-content/uploads/2026/10/Kona-Bike-Mechanics-During-Ironman-World-Championship.jpg?width=1200",
+     "also_covered_by": []
+    },
+    {
+     "title": "Canada gets ready for World Backyard Ultra Champs",
+     "link": "https://runningmagazine.ca/trail-running/canada-gets-ready-for-world-backyard-ultra-champs/",
+     "summary": "Canada’s 15-runner team will race in Sicamous, B.C., as countries around the world compete yard by yard",
+     "source": "Canadian Running",
+     "section_slug": "endurance",
+     "published": "2026-10-14T16:30:12+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "Toronto runner gives back to cancer foundation that saved his life",
+     "link": "https://runningmagazine.ca/sections/runs-races/toronto-runner-gives-back-to-cancer-foundation-that-saved-his-life/",
+     "summary": "Brandon Throop will attempt a world record at the TCS Toronto Waterfront Marathon while raising funds for the Princess Margaret Cancer Foundation",
+     "source": "Canadian Running",
+     "section_slug": "endurance",
+     "published": "2026-10-14T14:00:56+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "name": "Leadership",
+   "slug": "leadership",
+   "articles": [
+    {
+     "title": "Why every leader needs radical accountability",
+     "link": "https://www.fastcompany.com/91623258/why-every-leader-needs-radical-accountability?utm_source=postup&utm_medium=email&utm_campaign=leadership&position=1&partner=newsletter&campaign_date=10152026",
+     "summary": "Something should discipline you outside of the office, to keep you showing up.",
+     "source": "Fast Company",
+     "section_slug": "leadership",
+     "published": "2026-10-15T12:00:00+00:00",
+     "image_url": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/1-47.png",
+     "also_covered_by": []
+    },
+    {
+     "title": "The Defining Challenge of Responsible AI Is Designing Systems That Preserve Human Judgment When and Where It Counts",
+     "link": "https://sloanreview.mit.edu/article/the-defining-challenge-of-responsible-ai-is-designing-systems-that-preserve-human-judgment-when-and-where-it-counts/",
+     "summary": "For the fifth year in a row, MIT Sloan Management Review and Boston Consulting Group (BCG) have assembled an international panel of AI experts comprising academics and practitioners to help us understand how responsible artificial intelligence is being implemented across organizations worldwide. In previous posts this year, we have explored AI’s impact on the workforce, […]",
+     "source": "MIT Sloan Management Review",
+     "section_slug": "leadership",
+     "published": "2026-10-15T11:00:55+00:00",
+     "image_url": "https://sloanreview.mit.edu/wp-content/uploads/2026/10/BCG-RAI_2026_ExpertPanel04-1290x860-1.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Addressing fear",
+     "link": "https://seths.blog/2026/10/addressing-fear/",
+     "summary": "Don’t bring a spreadsheet to a fear fight. Change causes fear. And change is all around us. The fear of the unknown. The fear of failure. The fear of uncertainty. Mostly, we’d like safety. And when the world changes, safety feels like it’s in short supply. One reason we have security theatre is that the […]",
+     "source": "Seth Godin",
+     "section_slug": "leadership",
+     "published": "2026-10-15T09:03:00+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "5 ways people fake leadership and how to spot them",
+     "link": "https://www.fastcompany.com/91621562/5-ways-people-fake-leadership-how-to-spot-them?utm_source=postup&utm_medium=email&utm_campaign=leadership&position=2&partner=newsletter&campaign_date=10152026",
+     "summary": "Can we make it harder for pretenders to get away with it?",
+     "source": "Fast Company",
+     "section_slug": "leadership",
+     "published": "2026-10-15T08:30:00+00:00",
+     "image_url": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91621562-fake-leadership.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Chick-fil-A CEO fails to answer what the chain’s ‘official position’ is on LGBTQ+ rights",
+     "link": "https://www.fastcompany.com/91623873/chick-fil-a-ceo-fails-to-answer-what-the-chains-official-position-on-lgbtq-rights-is?utm_source=postup&utm_medium=email&utm_campaign=leadership&position=3&partner=newsletter&campaign_date=10152026",
+     "summary": "On the ‘Today’ show, chief executive Andrew Cathy repeatedly evaded questions regarding the brand’s longest-running controversy.",
+     "source": "Fast Company",
+     "section_slug": "leadership",
+     "published": "2026-10-14T20:45:13+00:00",
+     "image_url": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91623873-chik-fil-a-questions.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Microsoft denies reports of 20% cloud cuts to offset AI spending",
+     "link": "https://www.fastcompany.com/91623630/microsoft-denies-reports-of-20-cloud-cuts-to-offset-ai-spending?utm_source=postup&utm_medium=email&utm_campaign=leadership&position=4&partner=newsletter&campaign_date=10152026",
+     "summary": "The company labeled allegations that leadership in its Azure division must trim expenses by one-fifth as ‘inaccurate and careless,’ asserting no such orders were given.",
+     "source": "Fast Company",
+     "section_slug": "leadership",
+     "published": "2026-10-14T18:00:00+00:00",
+     "image_url": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/p-1-91623630-quick-hit-microsoft-reportedly-cutting-20-of-cloud-budget-to-offset-data-center-spending.jpg",
+     "also_covered_by": []
+    }
+   ]
+  },
+  {
+   "number": 6,
+   "name": "Fiber & Telecom",
+   "slug": "fiber-telecom",
+   "articles": [
+    {
+     "title": "TP-Link pledges $1B US investment amid mounting government resistance",
+     "link": "https://www.lightreading.com/regulatory-politics/tp-link-pledges-1b-us-investment-amid-mounting-government-resistance",
+     "summary": "TP-Link's effort to obtain an FCC waiver for a pair of Wi-Fi 8 routers is being stymied by a handful of state-led lawsuits and static from 21 state AGs over cybersecurity concerns and the supplier's purported links to China.",
+     "source": "Light Reading",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-15T12:38:21.186512+00:00",
+     "image_url": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt38755e742f3e1cb9/64ff54c4a127aa6bf57a5cad/Money_printing_machine_printing_100_dollar_banknotes_3D_illustration.jpg?width=720&quality=80&disable=upscale",
+     "also_covered_by": []
+    },
+    {
+     "title": "Eurobites: Vodafone onboards Three customers at Gatwick Airport",
+     "link": "https://www.lightreading.com/mobile-core/eurobites-vodafone-onboards-three-customers-at-gatwick-airport",
+     "summary": "Also in today's EMEA regional roundup: Ericsson's confusing Q3; Colt combines with Equinix; European SMEs put their faith in AI.",
+     "source": "Light Reading",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-15T11:50:00+00:00",
+     "image_url": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt4c8bd6ebed61fb7f/6ad0ba19b8f303096a9f5c21/gatwick_airport_16x9_source_johannes_heel_Unsplash.jpg?width=720&quality=80&disable=upscale",
+     "also_covered_by": []
+    },
+    {
+     "title": "Nokia faces difficulty of selling unwanted businesses",
+     "link": "https://www.lightreading.com/private-networks/nokia-faces-difficulty-of-selling-unwanted-businesses",
+     "summary": "Nokia has found buyers for FWA and private network assets, but its site implementation and microwave units are still mired in uncertainty.",
+     "source": "Light Reading",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-15T07:30:00+00:00",
+     "image_url": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt70ce866c1766c6bf/680f8bc7e23e8656913d55a8/Nokia_booth_at_MWC_Barcelonad_2025.jpg?width=720&quality=80&disable=upscale",
+     "also_covered_by": []
+    },
+    {
+     "title": "Cloud sovereignty comes with trade-offs – Swisscom CEO",
+     "link": "https://www.lightreading.com/cloud/cloud-sovereignty-comes-with-trade-offs-swisscom-ceo",
+     "summary": "While there are areas in which telcos need to focus on sovereignty, we should be selective with its implementation, Swisscom's CEO Christoph Aeschilmann said during Network X.",
+     "source": "Light Reading",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-15T07:21:55+00:00",
+     "image_url": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltb53ac4b481c8089e/6ad0838be5749f38650ac586/network_x_logo.jpeg?width=720&quality=80&disable=upscale",
+     "also_covered_by": []
+    },
+    {
+     "title": "6G's monetization puzzle: From sensing to physical AI",
+     "link": "https://www.lightreading.com/6g/6g-s-monetization-puzzle-from-sensing-to-physical-ai",
+     "summary": "The recent 6G Forum tackled the thorny problem of how to monetize future 6G investments. There are plenty of ideas, but still plenty of uncertainty about what might be the winning use cases.",
+     "source": "Light Reading",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-15T07:00:00+00:00",
+     "image_url": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt536f99888e3e1b00/64f9e9517434dc598c4db616/6G_stamped_on_semiconductor_or_chip_on_a_circuit_board.jpg?width=720&quality=80&disable=upscale",
+     "also_covered_by": []
+    },
+    {
+     "title": "Supermicro bets on open hardware to speed AI data center construction",
+     "link": "https://www.fierce-network.com/cloud/supermicro-bets-open-hardware-speed-ai-data-center-construction",
+     "summary": "Supermicro is packaging OCP racks, 48-volt power and liquid cooling into validated systems to get AI clusters online faster.",
+     "source": "Fierce Network",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-14T23:41:00+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "Schools, Libraries Defend $2.5 Billion E-Rate Program to FCC",
+     "link": "https://broadbandbreakfast.com/schools-libraries-defend-2-5-billion-e-rate-program-to-fcc/",
+     "summary": "Industry groups also supported continued funding amid concerns from FCC Chairman Brendan Carr",
+     "source": "Broadband Breakfast",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-14T22:33:17+00:00",
+     "image_url": "https://storage.ghost.io/c/29/97/29976d9d-89ea-4c77-8c0b-0e8a0eafed35/content/images/2026/10/photo-1617755870291-1f0de453ad30-1-1-1.jpeg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Nvidia’s SVP of networking explains the 5 types of networks needed for AI factories",
+     "link": "https://www.fierce-network.com/broadband/nvidias-svp-networking-explains-5-types-networks-needed-ai-factories",
+     "summary": "AI workloads require multiple GPUs, and these GPUs must be networked together. But there are four other kinds of networks also used in AI data centers.",
+     "source": "Fierce Network",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-14T21:51:00+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "HPE won’t merge Aruba and Mist, but is combining tech",
+     "link": "https://www.fierce-network.com/wireless/hpe-wont-merge-aruba-central-and-mist-platforms-will-share-ai-applications-and-hardware",
+     "summary": "HPE said Aruba Central and Mist will never merge. Instead, the platforms will share AI engines and hardware as HPE fights Cisco for campus share.",
+     "source": "Fierce Network",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-14T21:21:00+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "SpaceX’s mobile moonshot gets real with 800 MHz spectrum grab",
+     "link": "https://www.fierce-network.com/wireless/spacexs-mobile-moonshot-gets-real-800-mhz-spectrum-grab",
+     "summary": "SpaceX’s 800 MHz grab puts the U.S. mobile industry on notice: Elon’s coming for you.",
+     "source": "Fierce Network",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-14T21:15:00+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    },
+    {
+     "title": "NTIA Estimates Up to 1 Million Locations May Need Broadband Funding",
+     "link": "https://broadbandbreakfast.com/ntia-estimates-up-to-1-million-locations-may-need-broadband-funding/",
+     "summary": "NTIA needs new FCC coverage data before determining how many locations could qualify for another funding round",
+     "source": "Broadband Breakfast",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-14T19:59:42+00:00",
+     "image_url": "https://storage.ghost.io/c/29/97/29976d9d-89ea-4c77-8c0b-0e8a0eafed35/content/images/2026/10/IMG_3085-1-1.jpeg",
+     "also_covered_by": []
+    },
+    {
+     "title": "AI data centers need a new control plane for power, cooling and compute",
+     "link": "https://www.fierce-network.com/cloud/ai-data-centers-need-new-control-plane-power-cooling-and-compute",
+     "summary": "AI data centers are outgrowing siloed operations. As power, cooling and compute become tightly intertwined, operators need orchestration layers that can coordinate the whole stack in real time.",
+     "source": "Fierce Network",
+     "section_slug": "fiber-telecom",
+     "published": "2026-10-14T19:35:00+00:00",
+     "image_url": null,
+     "also_covered_by": []
+    }
+   ]
+  },
+  {
+   "number": 7,
+   "name": "Video Games",
+   "slug": "video-games",
+   "articles": [
+    {
+     "title": "Big Walk Is Skipping Xbox as Part of the Pro-Palestinian BDS Boycott",
+     "link": "https://www.polygon.com/big-walk-skipping-xbox-palestinian-bds-boycott/",
+     "summary": "Developer House House said it won't release the game on Xbox until Microsoft is removed as a priority target by BDS",
+     "source": "Polygon",
+     "section_slug": "video-games",
+     "published": "2026-10-15T10:51:35+00:00",
+     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/big-walk-gesture-gif.gif",
+     "also_covered_by": [
+      "The Verge",
+      "Rock Paper Shotgun"
+     ]
+    },
+    {
+     "title": "The rumoured Steam Frame OLED would fix one of the Frame's minor weaknesses and do nothing for its major ones",
+     "link": "https://www.rockpapershotgun.com/the-rumoured-steam-frame-oled-would-fix-one-of-the-frames-minor-weaknesses-and-do-nothing-for-its-major-ones",
+     "summary": "Good catch by SteamFrameHub here: snippets of the recently released Steam Frame kernel source code contain references to a possible variant of Valve's new VR headset with upgraded OLED lenses. A failed prototype, ditched during development? Maybe not – one of the related code branches, which codename the device 'Planar,' was updated on October 2nd, weeks after the LCD-lensed Frame…",
+     "source": "Rock Paper Shotgun",
+     "section_slug": "video-games",
+     "published": "2026-10-15T12:30:00+00:00",
+     "image_url": "https://assetsio.gnwcdn.com/Steam-Frame-with-controllers-2_ejQmTE2.jpg?width=690&quality=85&format=jpg&auto=webp",
+     "also_covered_by": []
+    },
+    {
+     "title": "Riot Games has announced the end League of Legends Classic as an on-going mode, just three months after its release",
+     "link": "https://www.eurogamer.net/league-of-legends-classic-ending-permanent-three-months",
+     "summary": "League of Legends Classic , the recreation of an older version of the popular MOBA, will be taken down at the end of the current season. The reason given is simple: most players have moved on to other areas of League of Legends . Read more",
+     "source": "Eurogamer",
+     "section_slug": "video-games",
+     "published": "2026-10-15T12:06:25+00:00",
+     "image_url": "https://assetsio.gnwcdn.com/league-of-legends-ahri-classic-splash-art.jpg?width=690&quality=85&format=jpg&auto=webp",
+     "also_covered_by": []
+    },
+    {
+     "title": "Steam’s Best Way To Play New Games Officially Comes Back in 4 Days",
+     "link": "https://www.polygon.com/steam-next-fest-october-edition-fyi/",
+     "summary": "Steam Next Fest kicks off on Oct. 19, bringing tons of free game demos for PC players.",
+     "source": "Polygon",
+     "section_slug": "video-games",
+     "published": "2026-10-15T12:00:15+00:00",
+     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/steam-neon-alt.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "\"Some people like it, some people are annoyed by it\": Substructure may look like Factorio, but it changes the automation game in some fundamental ways",
+     "link": "https://www.rockpapershotgun.com/some-people-like-it-some-people-are-annoyed-by-it-substructure-may-look-like-factorio-but-it-changes-the-automation-game-in-some-fundamental-ways",
+     "summary": "In many respects, as someone who has played a lot of automation games, Substructure is very familiar. It begins with you landing on the surface of an alien world and using nothing but pluck, the tools on your UI, and the schematics in your tech tree to construct a sprawling factory that claws up resources from the planet and transforms…",
+     "source": "Rock Paper Shotgun",
+     "section_slug": "video-games",
+     "published": "2026-10-15T12:00:00+00:00",
+     "image_url": "https://assetsio.gnwcdn.com/substructure_0005_platform-factory-descend.jpg?width=690&quality=85&format=jpg&auto=webp",
+     "also_covered_by": []
+    },
+    {
+     "title": "League of Legends Classic will become a thing of the past in January 2027, though it may one day be resurrected as a limited-time event",
+     "link": "https://www.rockpapershotgun.com/league-of-legends-classic-will-become-a-thing-of-the-past-in-january-2027-though-it-may-one-day-be-resurrected-as-a-limited-time-event",
+     "summary": "The classic mode rolled out in League of Legends earlier this year will cease to be a permanent addition once the calendar flips over into 2027, ending a fairly brief nostalgia run, devs Riot have announced. The mode, offering a version of the MOBA mirroring its early days, only debuted in July . It might come back in a different…",
+     "source": "Rock Paper Shotgun",
+     "section_slug": "video-games",
+     "published": "2026-10-15T11:01:24+00:00",
+     "image_url": "https://assetsio.gnwcdn.com/league-of-legends-classic-going-offline-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+     "also_covered_by": []
+    },
+    {
+     "title": "'Avatar' Seven Havens' Finally Fixes 'The Last Airbender's Biggest Mistake",
+     "link": "https://www.polygon.com/avatar-seven-havens-creators-interview-aang/",
+     "summary": "Polygon spoke to the creative team behind Seven Havens about how Avatar is changing",
+     "source": "Polygon",
+     "section_slug": "video-games",
+     "published": "2026-10-15T11:00:16+00:00",
+     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/avatar-seven-havens-1.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Big Walk devs House House announce support for BDS Microsoft boycott, say the co-op puzzler isn't coming to Xbox",
+     "link": "https://www.rockpapershotgun.com/big-walk-devs-house-house-announce-support-for-bds-microsoft-boycott-say-the-co-op-puzzler-isnt-coming-to-xbox",
+     "summary": "House House, creators of breezy co-op puzzle adventure Big Walk , have become the latest high-profile game developers to express support for the BDS (Boycott, Divestment, Sanctions) movement's ongoing Microsoft boycott. The developers, who also made avian mischief sim Untitled Goose Game, wrote in a post that they've been observing the boycott – called in 2025 in protest of Microsoft's…",
+     "source": "Rock Paper Shotgun",
+     "section_slug": "video-games",
+     "published": "2026-10-15T10:27:34+00:00",
+     "image_url": "https://assetsio.gnwcdn.com/Big-Walk-head-maze.png?width=690&quality=85&format=jpg&auto=webp",
+     "also_covered_by": []
+    },
+    {
+     "title": "Penguin Colony Rips Lovecraft’s Horror From His Racist Hands",
+     "link": "https://www.polygon.com/penguin-colony-review/",
+     "summary": "Penguin Colony reclaims H.P. Lovecraft's cosmic horror and weaponizes it against the writer's own beliefs in a vital piece of apocalypse art.",
+     "source": "Polygon",
+     "section_slug": "video-games",
+     "published": "2026-10-15T10:00:16+00:00",
+     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/penguin-colony-header.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "Ubisoft reportedly look to cut 100 more jobs by proposing voluntary redundancies at studios including lead Anno devs Ubisoft Mainz",
+     "link": "https://www.rockpapershotgun.com/ubisoft-reportedly-look-to-cut-100-more-jobs-by-proposing-voluntary-redundancies-at-studios-including-lead-anno-devs-ubisoft-mainz",
+     "summary": "Ubisoft have initiated talks over voluntary redundancies at three German studios under their banner, reportedly seeking to cut around 100 workers via the move. Ubisoft Dusseldorf, Ubisoft Berlin and Ubisoft Mainz are the studios set to be affected, with talks over the plans between Ubisoft and a works council representing staff having been initiated by the publishers last week. Read…",
+     "source": "Rock Paper Shotgun",
+     "section_slug": "video-games",
+     "published": "2026-10-15T09:51:03+00:00",
+     "image_url": "https://assetsio.gnwcdn.com/ubisoft-propose-german-studio-vol-redundancies-01.jpg?width=690&quality=85&format=jpg&auto=webp",
+     "also_covered_by": []
+    },
+    {
+     "title": "Fire Emblem: Fortune’s Weave DLC Officially Fixes Its Most Controversial Change",
+     "link": "https://www.polygon.com/fire-emblem-fortunes-weave-dlc-new-routes/",
+     "summary": "New weapons, allies, outfits, and routes await players of Fire Emblem: Fortune's Weave.",
+     "source": "Polygon",
+     "section_slug": "video-games",
+     "published": "2026-10-15T09:39:02+00:00",
+     "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/fire-emblem-fortune-s-weave-anatolia.jpg",
+     "also_covered_by": []
+    },
+    {
+     "title": "007 First Light gets Switch 2 release date, with IO Interactive saying time for \"optimisation and performance\" was needed",
+     "link": "https://www.eurogamer.net/007-first-light-switch-2-release-date-james-bond-game",
+     "summary": "The Switch 2 version of 007 First Light will be released 18th March, 2027, IO Interactive has announced. The game had originally been expected this summer but IOI announced a delay to an unspecific date in March roughly a month ago. Read more",
+     "source": "Eurogamer",
+     "section_slug": "video-games",
+     "published": "2026-10-15T09:17:26+00:00",
+     "image_url": "https://assetsio.gnwcdn.com/007-first-light-switch-2.jpg?width=690&quality=85&format=jpg&auto=webp",
+     "also_covered_by": []
+    }
+   ]
+  }
+ ],
+ "ticker": [
+  {
+   "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+   "link": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
+   "summary": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them. First is the $74.99 Bee Frontier, an updated version of the original Bee device. And […]",
+   "source": "The Verge",
+   "section_slug": "technology",
+   "published": "2026-10-15T12:00:00+00:00",
+   "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/BEE_FAMILY_02_1600x900.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "also_covered_by": []
+  },
+  {
+   "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+   "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+   "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.",
+   "source": "TechCrunch",
+   "section_slug": "technology",
+   "published": "2026-10-15T12:00:00+00:00",
+   "image_url": null,
+   "also_covered_by": []
+  },
+  {
+   "title": "Apple's Wall-Mounted HomeView Ships Without a Power Adapter",
+   "link": "https://www.macrumors.com/2026/10/15/wall-mounted-homeview-ships-without-power-adapter/",
+   "summary": "Apple's wall-mounted HomeView will ship without a power adapter, USB-C cable, or mount, requiring customers to purchase compatible accessories separately. In a support document posted on October 14, Apple outlined different power requirements for the two versions of its new smart home hub. The tabletop HomeView requires a USB-C power adapter rated for at least 30W, supporting an output of…",
+   "source": "MacRumors",
+   "section_slug": "apple",
+   "published": "2026-10-15T12:18:41+00:00",
+   "image_url": "https://images.macrumors.com/article-new/2026/10/homeview-wall-mount.jpg",
+   "also_covered_by": []
+  },
+  {
+   "title": "iPhone Duo has uncompromised performance, same as iPhone 18 Pro",
+   "link": "https://appleinsider.com/articles/26/10/15/iphone-duo-has-uncompromised-performance-same-as-iphone-18-pro?utm_source=rss",
+   "summary": "If the first Geekbench 7 figures for the iPhone Duo are legit, the A20 Pro processor hasn't been slowed down by the foldable's design choices. Apple's iPhone Duo. It's not be a huge surprise that two iPhones with the same A20 Pro processor would show at least similar benchmark results. However, the processor is just part of the whole system…",
+   "source": "AppleInsider",
+   "section_slug": "apple",
+   "published": "2026-10-15T12:02:44+00:00",
+   "image_url": "https://media.appleinsider.com/gallery/69400-146330-iPhone-Dup-xl.jpg",
+   "also_covered_by": []
+  },
+  {
+   "title": "Max Muncy gives blunt assessment of Dodgers' performance vs. Brewers in NLCS: 'We're playing like s***'",
+   "link": "https://sports.yahoo.com/mlb/article/max-muncy-gives-blunt-assessment-of-dodgers-performance-vs-brewers-in-nlcs-were-playing-like-s-123410078.html",
+   "summary": "Max Muncy had a simple explanation for the Dodgers' 3-0 deficit in the NLCS.",
+   "source": "Yahoo Sports",
+   "section_slug": "sports",
+   "published": "2026-10-15T12:34:10+00:00",
+   "image_url": null,
+   "also_covered_by": []
+  },
+  {
+   "title": "MLB fans blast Dodgers supporters after Brewers’ Game 1 NLCS victory",
+   "link": "https://sports.yahoo.com/articles/mlb-fans-blast-dodgers-supporters-123000041.html",
+   "summary": "MLB fans are taking aim at Dodgers supporters after Milwaukee’s Game 1 NLCS victory sparked online backlash over Abner Uribe’s celebration. As Brewers fans celebrated a 2-1 win, rival supporters defended the reliever and criticized what they viewed as entitlement among some Dodgers fans.",
+   "source": "Yahoo Sports",
+   "section_slug": "sports",
+   "published": "2026-10-15T12:30:00+00:00",
+   "image_url": "https://media.zenfs.com/en/gameday_chatter_552/bdbbf314a70c4f162c1104b6fce34b70.jpg",
+   "also_covered_by": []
+  },
+  {
+   "title": "The Best Tri Suits for Postpartum Bodies (That Actually Offer Support)",
+   "link": "https://www.triathlete.com/gear/best-tri-suits-for-postpartum-bodies/",
+   "summary": "A mom reviews triathlon suits based on comfort, nursing/pumping access, aesthetics, performance, and more. Read the full article at The Best Tri Suits for Postpartum Bodies (That Actually Offer Support) on Triathlete .",
+   "source": "Triathlete",
+   "section_slug": "endurance",
+   "published": "2026-10-15T12:00:09+00:00",
+   "image_url": "https://cdn.triathlete.com/wp-content/uploads/2026/09/The-Best-Tri-Suits-for-Postpartum-Bodies-scaled.jpg?width=1200",
+   "also_covered_by": []
+  },
+  {
+   "title": "Nike ACG Gear for Your Adventures in the Wild",
+   "link": "https://www.irunfar.com/nike-acg-gear-for-your-adventures-in-the-wild",
+   "summary": "",
+   "source": "iRunFar",
+   "section_slug": "endurance",
+   "published": "2026-10-15T10:00:21+00:00",
+   "image_url": "https://s3.amazonaws.com/www.irunfar.com/wp-content/uploads/2026/09/24124637/Jenn-Lichter-2026-Western-States-100-finish-line-feature.jpg",
+   "also_covered_by": []
+  },
+  {
+   "title": "The Defining Challenge of Responsible AI Is Designing Systems That Preserve Human Judgment When and Where It Counts",
+   "link": "https://sloanreview.mit.edu/article/the-defining-challenge-of-responsible-ai-is-designing-systems-that-preserve-human-judgment-when-and-where-it-counts/",
+   "summary": "For the fifth year in a row, MIT Sloan Management Review and Boston Consulting Group (BCG) have assembled an international panel of AI experts comprising academics and practitioners to help us understand how responsible artificial intelligence is being implemented across organizations worldwide. In previous posts this year, we have explored AI’s impact on the workforce, […]",
+   "source": "MIT Sloan Management Review",
+   "section_slug": "leadership",
+   "published": "2026-10-15T11:00:55+00:00",
+   "image_url": "https://sloanreview.mit.edu/wp-content/uploads/2026/10/BCG-RAI_2026_ExpertPanel04-1290x860-1.jpg",
+   "also_covered_by": []
+  },
+  {
+   "title": "Addressing fear",
+   "link": "https://seths.blog/2026/10/addressing-fear/",
+   "summary": "Don’t bring a spreadsheet to a fear fight. Change causes fear. And change is all around us. The fear of the unknown. The fear of failure. The fear of uncertainty. Mostly, we’d like safety. And when the world changes, safety feels like it’s in short supply. One reason we have security theatre is that the […]",
+   "source": "Seth Godin",
+   "section_slug": "leadership",
+   "published": "2026-10-15T09:03:00+00:00",
+   "image_url": null,
+   "also_covered_by": []
+  },
+  {
+   "title": "Eurobites: Vodafone onboards Three customers at Gatwick Airport",
+   "link": "https://www.lightreading.com/mobile-core/eurobites-vodafone-onboards-three-customers-at-gatwick-airport",
+   "summary": "Also in today's EMEA regional roundup: Ericsson's confusing Q3; Colt combines with Equinix; European SMEs put their faith in AI.",
+   "source": "Light Reading",
+   "section_slug": "fiber-telecom",
+   "published": "2026-10-15T11:50:00+00:00",
+   "image_url": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt4c8bd6ebed61fb7f/6ad0ba19b8f303096a9f5c21/gatwick_airport_16x9_source_johannes_heel_Unsplash.jpg?width=720&quality=80&disable=upscale",
+   "also_covered_by": []
+  },
+  {
+   "title": "Nokia faces difficulty of selling unwanted businesses",
+   "link": "https://www.lightreading.com/private-networks/nokia-faces-difficulty-of-selling-unwanted-businesses",
+   "summary": "Nokia has found buyers for FWA and private network assets, but its site implementation and microwave units are still mired in uncertainty.",
+   "source": "Light Reading",
+   "section_slug": "fiber-telecom",
+   "published": "2026-10-15T07:30:00+00:00",
+   "image_url": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt70ce866c1766c6bf/680f8bc7e23e8656913d55a8/Nokia_booth_at_MWC_Barcelonad_2025.jpg?width=720&quality=80&disable=upscale",
+   "also_covered_by": []
+  },
+  {
+   "title": "The rumoured Steam Frame OLED would fix one of the Frame's minor weaknesses and do nothing for its major ones",
+   "link": "https://www.rockpapershotgun.com/the-rumoured-steam-frame-oled-would-fix-one-of-the-frames-minor-weaknesses-and-do-nothing-for-its-major-ones",
+   "summary": "Good catch by SteamFrameHub here: snippets of the recently released Steam Frame kernel source code contain references to a possible variant of Valve's new VR headset with upgraded OLED lenses. A failed prototype, ditched during development? Maybe not – one of the related code branches, which codename the device 'Planar,' was updated on October 2nd, weeks after the LCD-lensed Frame…",
+   "source": "Rock Paper Shotgun",
+   "section_slug": "video-games",
+   "published": "2026-10-15T12:30:00+00:00",
+   "image_url": "https://assetsio.gnwcdn.com/Steam-Frame-with-controllers-2_ejQmTE2.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "also_covered_by": []
+  },
+  {
+   "title": "Riot Games has announced the end League of Legends Classic as an on-going mode, just three months after its release",
+   "link": "https://www.eurogamer.net/league-of-legends-classic-ending-permanent-three-months",
+   "summary": "League of Legends Classic , the recreation of an older version of the popular MOBA, will be taken down at the end of the current season. The reason given is simple: most players have moved on to other areas of League of Legends . Read more",
+   "source": "Eurogamer",
+   "section_slug": "video-games",
+   "published": "2026-10-15T12:06:25+00:00",
+   "image_url": "https://assetsio.gnwcdn.com/league-of-legends-ahri-classic-splash-art.jpg?width=690&quality=85&format=jpg&auto=webp",
+   "also_covered_by": []
+  }
+ ],
+ "quote": {
+  "text": "Some people want it to happen, some wish it would happen, others make it happen.",
+  "author": "Michael Jordan"
+ },
+ "weather": {
+  "place": "Fort Wayne",
+  "high_f": 67,
+  "low_f": 55,
+  "label": "Drizzle",
+  "icon": "rain"
+ }
+}
